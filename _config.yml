@@ -1,7 +1,3 @@
-# # # # # # # #
-#   K i k o   #
-# # # # # # # #
-
 # Basic
 name:               "Parot lab"
 title:              "Parot lab at Catholic University of Chile"
@@ -24,12 +20,12 @@ highlighter:        rouge
 nav:
   - name:           "home"
     href:           ""
-  - name:           "about"
-    href:           "about"
+  - name:           "research"
+    href:           "research"
   - name:           "publications"
     href:           "publications"
-  - name:           "people"
-    href:           "people"
+  - name:           "team"
+    href:           "team"
   - name:           "blog"
     href:           "blog"
   - name:           "resources"
