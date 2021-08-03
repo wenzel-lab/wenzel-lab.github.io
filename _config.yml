@@ -3,13 +3,13 @@
 # # # # # # # #
 
 # Basic
-name:               "Kording lab"
-title:              "Kording lab at University of Pennsylvania"
-description:        "this is a page for Konrad Kording lab, we are comptational neurosciece and datascience lab at the University of Pennsylvania, Philadelphia"
+name:               "Parot lab"
+title:              "Parot lab at Catholic University of Chile"
+description:        "this is a page for Vicente Parot lab, we are an applied computational imaging lab at Catholic University of Chile in Santiago, Chile"
 
 
 # URL
-url:                https://vparot.github.io/vparot-klab-test.github.io/
+url:                https://vparot.github.io/
 baseurl:            
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
@@ -24,16 +24,12 @@ highlighter:        rouge
 nav:
   - name:           "home"
     href:           "/"
-  - name:           "about"
-    href:           "/about"
   - name:           "publications"
     href:           "/publication"
   - name:           "people"
     href:           "/people"
   - name:           "blog"
     href:           "/blog"
-  - name:           "resources"
-    href:           "/resources"
 
 # Sass
 sass:
@@ -59,7 +55,6 @@ defaults:
       type:         "people"
     values:
       layout:       "profile"
-
 
 collections:
   people:

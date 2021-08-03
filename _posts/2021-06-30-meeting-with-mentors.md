@@ -1,8 +1,11 @@
 ---
 title: How to have productive meetings with busy mentors
 description: Tips for new graduate students
-categories: newblog
+categories: blog
+header-img: images/empty.jpg
 ---
+
+_This post from Konrad Kording's lab is an excellent resource and has survived content cleanup for this forked lab website_
 
 # How to have productive meetings with busy mentors
 *by Ari Benjamin with help from Ilenna Jones and Nidhi Seethapathi*

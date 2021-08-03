@@ -1,8 +1,10 @@
 ---
 title: Extensive writing guide by my friend Liz Moyer
-categories: scientists
-header-img: images/post/dino4.jpeg
+categories: blog
+header-img: images/empty.jpg
 ---
+
+_This post from Konrad Kording's lab is an excellent resource and has survived content cleanup for this forked lab website_
 
 by Elisabeth Moyer, Dept. of the Geophysical Sciences, University of Chicago, 3/24/2014
 

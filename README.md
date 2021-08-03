@@ -1,6 +1,6 @@
-# Kording lab page
+# Parot lab page
 
-This is repository for [Kording lab page](http://kordinglab.com/). We use Jekyll to run our Github page. We are welcome for other people to contribute to our site not just lab members. Feel free to fork and pull-request!
+This is repository for [Parot lab page](http://vparot.github.io/). We use Jekyll to run our Github page. We are welcome for other people to contribute to our site not just lab members. Feel free to fork and pull-request!
 
 ## Run the page locally using Jekyll
 
@@ -37,7 +37,7 @@ We have 4 categories: `scientists`, `students`, `discussion`, `blog` you can cho
 
 - **Clone the repository**, kind of the same as directly add post on Github. You just have to clone the repository. Then add new post file, commit and push to the repo.
 
-The changes will take approximately half a minute to render. You can see the new posts or changes on [kordinglab.com](http://kordinglab.github.io/)!
+The changes will take approximately half a minute to render. You can see the new posts or changes on [vparot.github.io](http://vparot.github.io/)!
 
 ### Add yourself
 
@@ -53,7 +53,7 @@ joined: 2014
 ---
 ```
 
-If you don't have information, just leave it blank. The avatar will bring photo from `images/people` folder and display it on people page. 
+If you don't have information, just leave it blank. The avatar will bring the photo from `images/people` folder and display it on people page. 
 For lab position, you can choose position from 4 classes including `postdoc`, `gradstudent`, `visiting`, `others` (so called Honorary members). Position will put you into section that you choose.
 
 ### Add new publications
