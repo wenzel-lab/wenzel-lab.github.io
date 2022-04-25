@@ -1,0 +1,33 @@
+---
+layout: default
+---
+<div class="container content page">
+{% assign people_sorted = site.people | sort: 'joined' | where: 'lang', page.lang %}
+{% assign role_array = "pi|postdoc|phd-student|ms-student|undergrad|researchstaff|visiting|others|alumni" | split: "|" %}
+{% for role in role_array %}
+	{% assign people_in_role = people_sorted | where: 'position', role %}
+	{% if people_in_role.size == 0 and role != 'alumni'%}
+		{% continue %}
+	{% endif %}
+  <h3 class="pos-header">{{ page.role_tags[role] }}</h3>
+  {% if role != 'alumni' %}
+  <div class="content list people">
+    {% for profile in people_in_role %}
+    <div class="list-item-people">
+      <p class="list-post-title">
+        {% if profile.avatar %}
+          <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="{{site.baseurl}}/images/people/{{profile.avatar}}"></a>
+        {% else %}
+          <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="{{site.baseurl}}/images/people/empty.jpg"></a>
+        {% endif %}
+        <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a>
+      </p>
+    </div>    
+    {% endfor %}
+  </div>    
+  <hr>
+  {% else %}
+  {{ content }}
+  {% endif %}
+{% endfor %}
+</div>
