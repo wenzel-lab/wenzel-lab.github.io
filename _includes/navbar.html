@@ -65,6 +65,24 @@
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
+	{% if page.layout == 'post' %}
+    {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+    {% endif %}
+    {% if  page.layout != 'post' %}
+    {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+    {% endif %}
+    {% if posts.size > 1 %}
+ 
+    <div class="header__langs">
+      {% for post in posts %}
+      {% if post.lang != page.lang %}
+      <a href="{{ site.base-url }}{{ post.url }}" class="header__lang header__lang-{{ post.lang }} title=" View in
+        {{post.lang}}" data-lang={{ post.lang }}></a>
+      {% endif %}
+      {% endfor %}
+    </div>
+    {% endif %}
+
         </div>
         <!-- /.container-fluid -->
 </nav>
