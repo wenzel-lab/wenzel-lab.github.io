@@ -54,6 +54,7 @@ defaults:
       type:         "pages"
     values:
       layout:       "page"
+      ref:          ""
   - scope:
       path:         ""
       type:         "posts"
