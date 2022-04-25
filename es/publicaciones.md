@@ -135,8 +135,10 @@ Magíster, Pontificia Universidad Católica de Chile, Dic 2009. <a href="/files/
 
 Lista en <a href="https://patents.google.com/?inventor=vicente+parot&sort=new">Google Patents</a>.
 
-<img class='img-responsive center-block' src="/images/pubs/201903 hip fl.jpg" width="50%" height="80%" data-action="zoom">
 
 ### Aviso de Derechos de Autor
 
 Los documentos que se enumeran aquí están disponibles para su descarga y se han proporcionado como un medio para garantizar la difusión oportuna del trabajo académico y técnico sin fines comerciales. Los derechos de autor y todos los derechos sobre los mismos son mantenidos por los autores o por otros titulares de los derechos de autor, a pesar de que han ofrecido sus trabajos aquí electrónicamente. Se entiende que todas las personas que copien esta información se adherirán a los términos y restricciones invocados por los derechos de autor de cada autor. Estos trabajos no pueden volver a publicarse sin el permiso explícito del titular de los derechos de autor.
+
+
+<img class='img-responsive center-block' src="/images/pubs/201903 hip fl.jpg" width="50%" height="80%" data-action="zoom">
