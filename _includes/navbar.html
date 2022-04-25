@@ -1,3 +1,17 @@
+<script src="{{ site.url }}/js/storelang.js"></script>
+<script type="text/javascript">
+// Multilingual preference storage
+// 2022 Vicente Parot
+// Catholic University of Chile
+  window.onload = function() {
+    var a = document.getElementById("langlink");
+    a.onclick = function() {
+      // alert('lang_click(' + lang_load() + ')');
+      lang_click(a.lang);
+      return true;
+    }
+  }
+</script>
 <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
@@ -17,9 +31,36 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <ul class="nav navbar-nav navbar-right">
-                      {% for nav in site.nav %}
-                      <li><a class='name' href="{{ nav.href }}">{{ nav.name }}</a></li>
+
+                    {%- assign default_paths = site.pages | map: "path" -%}
+                    {%- assign page_paths = site.header_pages | default: default_paths -%}
+                    {%- if page_paths -%}
+                      {% assign allpages = "" | split: "" %}
+                      {%- for path in page_paths -%}
+                        {%- assign thispage = site.pages | where: "path", path | first -%}
+                        {% assign allpages = allpages | push: thispage %}
+                      {%- endfor -%}
+                      {% assign allpages = allpages | sort: 'ref' %}
+                      {% for my_page in allpages %}
+                        {%- if my_page.title -%}
+                          {%- if my_page.lang == page.lang -%}
+                            <li><a class="name" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
+                          {%- endif -%}
+                        {%- endif -%}
                       {% endfor %}
+                      {% assign posts = site.people | where:"ref", page.ref | sort: 'lang' %}
+                      {% if posts.size == 0 %}
+                        {% assign posts = site.pages | where:"ref", page.ref | sort: 'lang' %}
+                      {% endif %}
+                      {% if posts.size > 1 %}
+                        {% for post in posts %}
+                          {% if post.lang != page.lang %}
+                            <li><a class="name" id="langlink" lang="{{ post.lang }}" href="{{ post.url | relative_url }}">{{ site.lang_names[post.lang] | escape }}</a></li>
+                          {% endif %}
+                        {% endfor %}
+                      {% endif %}
+                    {%- endif -%}
+
                     </ul>
                 </ul>
             </div>

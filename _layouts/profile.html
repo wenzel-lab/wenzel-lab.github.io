@@ -3,5 +3,16 @@ layout: default
 ---
 <div class="container content page">
   <h3 class="page-title">{{ page.name }}</h3>
+  {% if page.avatar %}
+    <p>
+      <img width="200" src="{{site.baseurl}}/images/people/{{page.avatar}}" loading="lazy">
+    </p>
+  {% endif %}
+  <p>
+    <i class="fa fa-envelope-o"></i>
+    <code class="language-plaintext highlighter-rouge">
+      {{ page.ref }}
+    </code>
+  </p>
   {{ content }}
 </div>

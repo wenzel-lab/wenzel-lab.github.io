@@ -1,12 +1,32 @@
-# Basic
-name:               "Parot lab"
-title:              "Parot lab at Catholic University of Chile"
-description:        "this is a page for Vicente Parot lab, we are an applied computational bioimaging lab at Catholic University of Chile in Santiago, Chile"
+# # # # # # # #
+#   K i k o   #
+# # # # # # # #
 
+# Basic
+name:               "Parot Lab"
+title:              "Parot Lab at Catholic University of Chile"
+description:        "this is a page for Vicente Parot's lab, we are an applied computational imaging lab at Catholic University of Chile in Santiago, Chile"
+
+lang_title:
+  en: Parot Laboratory
+  es: Laboratorio Parot
+lang_description:
+  en: >- # this means to ignore newlines until "baseurl:"
+    Computational imaging for medicine and biology
+  es: >- # this means to ignore newlines until "baseurl:"
+    Imagen computacional para biología y medicina
+lang_institution:
+  en: >- # this means to ignore newlines until "baseurl:"
+    Institute for Biological and Medical Engineering, Catholic University of Chile
+  es: >- # this means to ignore newlines until "baseurl:"
+    Instituto de Ingeniería Biológica y Médica, Pontificia Universidad Católica de Chile
+lang_names:
+  en: english
+  es: español
 
 # URL
-url:                https://vparot.github.io/vparot-klab-test.github.io/
-baseurl:            
+url:                http://localhost:4000/ # https://vparot.github.io/
+baseurl:            ""
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
 
@@ -17,19 +37,11 @@ markdown:           kramdown
 highlighter:        rouge
 
 # Navigation
-nav:
-  - name:           "home"
-    href:           ""
-  - name:           "about"
-    href:           "about"
-  - name:           "publications"
-    href:           "publications"
-  - name:           "people"
-    href:           "people"
-  - name:           "blog"
-    href:           "blog"
-  - name:           "resources"
-    href:           "resources"
+#nav:
+#  - name:           "home"
+#    href:           "/"
+#  - name:           "blog"
+#    href:           "/blog"
 
 # Sass
 sass:
@@ -37,27 +49,43 @@ sass:
 
 # Scopes
 defaults:
-  -
-    scope:
+  - scope:
       path:         ""
       type:         "pages"
     values:
       layout:       "page"
-  -
-    scope:
+  - scope:
       path:         ""
       type:         "posts"
     values:
       layout:       "post"
-  -
-    scope:
-      path:         ""
-      type:         "people"
+#  - scope:
+#      path:         ""
+#      type:         "people"
+#    values:
+#      layout:       "profile"
+  - scope:
+      path: '_people/en'
     values:
+      permalink: 'en/people/:title'
+      lang: en
       layout:       "profile"
-
+  - scope:
+      path: '_people/es'
+    values:
+      permalink: 'es/equipo/:title'
+      lang: es
+      layout:       "profile"
+  - scope:
+      path: en 
+    values:
+      lang: en
+  - scope:
+      path: es
+    values:
+      lang: es
 
 collections:
   people:
     output: true
-    permalink: /people/:title/index.html
+#    permalink: /people/:title/index.html

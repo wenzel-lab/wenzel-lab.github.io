@@ -7,7 +7,6 @@ permalink: /blog/
 
 <div class="content list">
   {% for post in site.posts %}
-    {% if post.categories contains 'newblog' %}
     <div class="list-item">
       <p class="list-post-title">
         <a href="{{ post.url | prepend: site.baseurl }}">
@@ -31,6 +30,5 @@ permalink: /blog/
         </a>
       </p>
     </div>
-    {% endif %}
   {% endfor %}
 </div>

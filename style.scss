@@ -15,6 +15,8 @@ body {
 }
 
 html {
+		background-image: url('images/nb.png');
+		background-repeat: repeat; 
   font-family: "Open Sans", "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 18px;
   font-weight: 300;
@@ -26,8 +28,11 @@ html {
 }
 
 body {
+		background-image: url('images/nt.png'); 
+		background-repeat: repeat; 
+		background-attachment: fixed; 
   color: #515151;
-  background-color: #fff;
+  background-color: transparent;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -259,6 +264,40 @@ img {
   border-radius: 5px;
 }
 
+.pfloat-right {
+  float: right;
+  margin-left: 1em;
+  margin-right: 0em;
+  margin-top: 0em;
+  margin-bottom: 0em;
+}
+
+.pfloat-left {
+  float: left;
+  margin-left: 0em;
+  margin-right: 1em;
+  margin-top: 0em;
+  margin-bottom: 0em;
+}
+
+.parallax1 {
+  background-image: url('/images/pubs/201903 hip white.jpg');
+  height: 200px;
+  background-attachment: fixed;
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax2 {
+  background-image: url('/images/pubs/rbp4.jpg');
+  min-height: 150px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 table {
   margin-bottom: 1rem;
   width: 100%;
@@ -468,7 +507,7 @@ tbody tr:nth-child(odd) th {
 .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
 
 // customization
-.pos_header {
+.pos-header {
   margin-left: 2rem;
 }
 
@@ -517,7 +556,8 @@ tbody tr:nth-child(odd) th {
 
 // change font for navbar
 .navbar, .navbar-nav>li>a {
-  background-color: white;
+		background-image: url('images/nb.png');
+		background-repeat: repeat; 
   font-family: 'Open Sans', sans-serif;
   text-transform: uppercase;
   font-weight: 400;
@@ -545,5 +585,6 @@ tbody tr:nth-child(odd) th {
 // fix menu button for mobile
 .navbar-toggle, .navbar-default .navbar-toggle:hover {
   border: none;
-  background-color: #FFF;
+		background-image: url('images/nb.png');
+		background-repeat: repeat; 
 }
