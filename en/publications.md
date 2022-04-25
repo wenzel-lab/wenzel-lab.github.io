@@ -36,7 +36,7 @@ _Compressed Hadamard Microscopy for high-speed optically sectioned neuronal acti
 Parot V.J.\*, Sing-Long C.\*, Adam Y., Böhm U.L., Fan L.Z., Farhi S.L. and Cohen A.E. <br>
 Journal of Physics D: Applied Physics 52 144001, Special issue on neurophotonics (2019). <a href="/files/pubs/journal/jpd/aafe88.pdf">pdf</a>, <a href="http://doi.org/c2gs">publisher's link</a>
 
-"G:\Shared drives\IIBM\Code\vparot-klab-test.github.io\files\pubs\journal\jneurosci\6.20.19 Cover_.pdf"
+
 <img class="pfloat-right" src="/images/pubs/201901 jneuroscience.jpg" width="25%" loading="lazy" data-action=zoom>
 _Wide-area all-optical neurophysiology in acute brain slices_  <br> 
 Farhi, S.L.\*, Parot, V.J.\*, Grama, A., Yamagata, M., Abdelfattah, A.S., Adam, Y., Lou, S., Kim, J.J., Campbell, R.E., Cox, D.D. and Cohen, A.E. <a href="/files/pubs/journal/jneurosci/JNEUROSCI.0168-19.2019.full.pdf">pdf</a>, <a href="http://doi.org/c38x">publisher's link</a>, <a href="/files/pubs/journal/jneurosci/6.20.19 Cover_.pdf">cover</a>
