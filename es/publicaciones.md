@@ -105,6 +105,7 @@ V. J. Parot, T. M. Cannon, M. Villiger, N. Uribe-Patarroyo, and B. E. Bouma <br>
 Proceedings Volume 11657, Biomedical Applications of Light Scattering XI; 116570A (2021). [link editorial](https://doi.org/10.1117/12.2578570)
 
 
+<img class="pfloat-right" src="/images/pubs/sas.jpg" width="25%" loading="lazy" data-action=zoom>
 _Microsecond Timescale Selective Access Two-photon Targeting for Functional Measurements in Tissue_<br>
 V. J. Parot\*, S. Nichols\*, G. Testa-Silva, and A. E. Cohen <br>
 Biophotonics Congress: Biomedical Optics, p. BTu1C.6 (2020). [pdf](/files/pubs/conference/osa bio 2020/BTu1C.6.pdf), [link editorial](https://doi.org/10.1364/BRAIN.2020.BTu1C.6)
