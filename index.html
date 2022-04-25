@@ -1,14 +1,25 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
-<script src="/js/storelang.js"></script>
-<script type="text/javascript">
-// Multilingual preference storage
-// 2022 Vicente Parot
-// Catholic University of Chile
-  window.onload = function() {
-    // alert('lang_click(' + lang_load() + ')');
-    // alert(window.location + lang_load());
-    window.location = window.location + lang_load();
-  }
-</script>
+  <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-LHMV3CF9VS"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-LHMV3CF9VS'); <!-- parotlab.github.io -->
+    </script>
+    <script src="/js/storelang.js"></script>
+    <script type="text/javascript">
+    // Multilingual preference storage
+    // 2022 Vicente Parot
+    // Catholic University of Chile
+      window.onload = function() {
+        // alert('lang_click(' + lang_load() + ')');
+        // alert(window.location + lang_load());
+        window.location = window.location + lang_load();
+      }
+    </script>
+  </head>
 </html>
