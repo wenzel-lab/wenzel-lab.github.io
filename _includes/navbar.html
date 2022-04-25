@@ -40,7 +40,7 @@
                         {%- assign thispage = site.pages | where: "path", path | first -%}
                         {% assign allpages = allpages | push: thispage %}
                       {%- endfor -%}
-                      {% assign allpages = allpages | sort: 'ref' %}
+                      {% assign allpages = allpages %}
                       {% for my_page in allpages %}
                         {%- if my_page.title -%}
                           {%- if my_page.lang == page.lang -%}
