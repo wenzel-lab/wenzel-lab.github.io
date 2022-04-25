@@ -1,6 +1,6 @@
 # Parot lab page
 
-This is repository for [Parot lab page](http://vparot.github.io/). We use Jekyll to run our Github page. We are welcome for other people to contribute to our site not just lab members. Feel free to fork and pull-request!
+This is repository for [Parot lab page](http://parotlab.github.io/). We use Jekyll to run our Github page. We are welcome for other people to contribute to our site not just lab members. Feel free to fork and pull-request!
 
 ## Run the page locally using Jekyll
 
@@ -37,7 +37,7 @@ We have 4 categories: `scientists`, `students`, `discussion`, `blog` you can cho
 
 - **Clone the repository**, kind of the same as directly add post on Github. You just have to clone the repository. Then add new post file, commit and push to the repo.
 
-The changes will take approximately half a minute to render. You can see the new posts or changes on [vparot.github.io](http://vparot.github.io/)!
+The changes will take approximately half a minute to render. You can see the new posts or changes on [parotlab.github.io](http://parotlab.github.io/)!
 
 ### Add yourself
 
