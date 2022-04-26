@@ -5,7 +5,7 @@ ref: 1-about
 ---
 
 ### Nosotros
-Somos un grupo de científicos e ingenieros interesados ​​en obtener imágenes para aprender del cerebro u otros órganos. Nuestro trabajo está impulsado por la curiosidad y conecta muchas disciplinas, incluyendo ingeniería eléctrica, ciencia de computación, física óptica, biofísica, neurociencia y medicina.
+Somos un grupo de científicos e ingenieros interesados ​​en obtener imágenes para aprender más del cerebro y otros órganos. Nuestro trabajo está impulsado por la curiosidad y conecta muchas disciplinas, incluyendo ingeniería eléctrica, ciencia de computación, física óptica, biofísica, neurociencia y medicina.
 
 ### Investigación
 Trabajamos para avanzar las fronteras de la tecnología de imágenes y para buscar y abordar nuevas aplicaciones biomédicas. Aprovechamos la modulación avanzada de luz, diseñamos nuevos métodos de formación de imágenes e inventamos técnicas de inferencia estadística para extraer información útil de los tejidos biológicos. En particular, codiseñamos instrumentos y algoritmos para desarrollar sistemas de imagen computacional adaptados para aplicaciones en neurociencia, dermatología, microendoscopia e imágenes médicas.
