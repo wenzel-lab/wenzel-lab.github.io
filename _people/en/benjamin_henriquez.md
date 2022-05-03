@@ -1,6 +1,7 @@
 ---
 name: Benjamin Henriquez
 position: undergrad
+avatar: benjamin-henriquez.jpg
 ref: benja20029@uc.cl
 ---
 
