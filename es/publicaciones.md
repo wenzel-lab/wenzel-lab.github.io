@@ -10,7 +10,7 @@ También en <a href="https://scholar.google.com/citations?user=RiMA-zwAAAAJ&sort
 
 _Confocal 3d reflectance imaging through multimode fiber without wavefront shaping_<br>
 S.-Y. Lee,V. J. Parot, B. E. Bouma, and M. Villiger <br>
-Optica, vol. 9, pp. 112–120, (2022). [pdf](/files/pubs/journal/optica/optica-9-1-112.pdf), [link editorial](https://doi.org/10.1364/OPTICA.446178)
+Optica, vol. 9, pp. 112–120, (2022). [pdf principal](/files/pubs/journal/optica/optica-9-1-112.pdf), [pdf suplemento](/files/pubs/journal/optica/5580481.pdf), [publisher's link](https://doi.org/10.1364/OPTICA.446178)
 
 
 <img class="pfloat-right" src="/images/pubs/202002 mmf.png" width="25%" loading="lazy" data-action=zoom>
@@ -45,7 +45,7 @@ Journal of Neuroscience, 0168-19 (2019). <a href="/files/pubs/journal/jneurosci/
 
 _Genetically targeted all-optical electrophysiology with a transgenic Cre-dependent Optopatch mouse_<br>
 S. Lou, Y. Adam, E.N. Weinstein, E. Williams, K. Williams, V. Parot, N. Kavokine, S. Liberles, L. Madisen, H. Zeng, and A.E. Cohen <br>
-Journal of Neuroscience, 36(43), pp.11059-11073 (2016). <a href="/files/pubs/journal/jneurosci/Lou_JNeuroSci_Floxopatch.pdf">main pdf</a>, <a href="/files/pubs/journal/jneurosci/Floxopatch_supplement_2016.pdf">supplement pdf</a>, <a href="http://doi.org/bxmq">link editorial</a>
+Journal of Neuroscience, 36(43), pp.11059-11073 (2016). <a href="/files/pubs/journal/jneurosci/Lou_JNeuroSci_Floxopatch.pdf">pdf principal</a>, <a href="/files/pubs/journal/jneurosci/Floxopatch_supplement_2016.pdf">pdf suplementario</a>, <a href="http://doi.org/bxmq">link editorial</a>
 
 
 _Recovery and normalization of triple coincidences in PET_<br>

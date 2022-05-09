@@ -10,7 +10,7 @@ Also in <a href="https://scholar.google.com/citations?user=RiMA-zwAAAAJ&sortby=p
 
 _Confocal 3d reflectance imaging through multimode fiber without wavefront shaping_<br>
 S.-Y. Lee,V. J. Parot, B. E. Bouma, and M. Villiger <br>
-Optica, vol. 9, pp. 112–120, (2022). [pdf](/files/pubs/journal/optica/optica-9-1-112.pdf), [publisher's link](https://doi.org/10.1364/OPTICA.446178)
+Optica, vol. 9, pp. 112–120, (2022). [main pdf](/files/pubs/journal/optica/optica-9-1-112.pdf), [pdf supplement](/files/pubs/journal/optica/5580481.pdf), [publisher's link](https://doi.org/10.1364/OPTICA.446178)
 
 
 <img class="pfloat-right" src="/images/pubs/202002 mmf.png" width="25%" loading="lazy" data-action=zoom>
