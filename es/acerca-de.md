@@ -5,7 +5,7 @@ ref: 1-about
 ---
 
 ### Nosotros
-Somos un grupo de científicos e ingenieros interesados ​​en obtener imágenes para aprender más del cerebro y otros órganos. Nuestro trabajo está impulsado por la curiosidad y conecta muchas disciplinas, incluyendo ingeniería eléctrica, ciencia de computación, física óptica, biofísica, neurociencia y medicina.
+Somos un grupo de personas en ciencia e ingeniería interesadas ​​en obtener imágenes para aprender más del cerebro y otros órganos. Nuestro trabajo está impulsado por la curiosidad y conecta muchas disciplinas, incluyendo ingeniería eléctrica, ciencia de computación, física óptica, biofísica, neurociencia y medicina.
 
 ### Investigación
 Trabajamos para avanzar las fronteras de la tecnología de imágenes y para buscar y abordar nuevas aplicaciones biomédicas. Aprovechamos la modulación avanzada de luz, diseñamos nuevos métodos de formación de imágenes e inventamos técnicas de inferencia estadística para extraer información útil de los tejidos biológicos. En particular, codiseñamos instrumentos y algoritmos para desarrollar sistemas de imagen computacional adaptados para aplicaciones en neurociencia, dermatología, microendoscopia e imágenes médicas.
@@ -19,7 +19,7 @@ Actualmente, nuestra atención se centra en mejorar la resolución espaciotempor
 <div class="parallax2"></div><br>
 
 ### Equipo
-Inicialmente, nuestro grupo en la Universidad Católica ha estado compuesto por ingenieros interesados ​​en aprender biofísica, óptica, métodos de análisis numérico y aprendizaje profundo, neurobiología, diversos temas de imágenes médicas o combinaciones de éstos. Muchos de nosotros hemos tenido miedo de temas que no sabíamos, hasta que recordamos que todo lo que sabemos lo hemos aprendido antes. Nuestra [página de equipo]({{ site.baseurl }}/es/equipo/) tiene más información sobre cada persona que trabaja en el laboratorio (intereses, información de contacto, fotos).
+Inicialmente, nuestro grupo en la Universidad Católica ha estado compuesto por personas de ingeniería interesadas ​​en aprender biofísica, óptica, métodos de análisis numérico y aprendizaje profundo, neurobiología, diversos temas de imágenes médicas o combinaciones de éstos. Muchos de nosotros hemos tenido miedo de temas que no sabíamos, hasta que recordamos que todo lo que sabemos lo hemos aprendido antes. Nuestra [página de equipo]({{ site.baseurl }}/es/equipo/) tiene más información sobre cada persona que trabaja en el laboratorio (intereses, información de contacto, fotos).
 
 ### Ambiente laboral
 Nuestro laboratorio está abierto a todas las personas que quieren aprender y tienen sed de más. Se espera que todos compartan abiertamente su opinión sobre los resultados de los demás; Es mejor que los cercanos identifiquen fallas, antes que lo haga un revisor enojado. En general, tenemos reuniones periódicas del grupo y también de cada proyecto. El avance se centra en las metas y está impulsado por el interés personal y motivación de cada persona. Tenemos un calendario compartido que todos pueden editar para coordinar actividades del Lab y usamos un canal de slack para disfrutar de comunicaciones sin spam.
