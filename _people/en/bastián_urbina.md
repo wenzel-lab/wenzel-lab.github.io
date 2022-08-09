@@ -1,5 +1,5 @@
 ---
-name: Batián Urbina
+name: Bastián Urbina
 position: undergrad
 ref: urbinagarridobastian@uc.cl
 ---
