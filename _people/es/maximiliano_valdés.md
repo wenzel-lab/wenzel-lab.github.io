@@ -1,6 +1,6 @@
 ---
 name: Maximiliano Valdés
-position: undergrad
+position: ms-student
 avatar: maximiliano-valdes.jpg
 ref: mvvaldes2@uc.cl
 ---
