@@ -26,5 +26,7 @@ aheader: '| Quién es | Cuándo estuvo aquí | Dónde se fue |'
 | Francisco Javier Concha | IPre 2021-2 | |
 | Yerko Chávez            | IPre 2021-2 | |
 | Rafael Kaempfer         | IPre 2021-1 | |
+<!---
 | Ruth Vallejos           | IPre 2021-1 | |
+-->
 
