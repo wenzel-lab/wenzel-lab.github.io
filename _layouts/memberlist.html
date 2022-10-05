@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="container content page">
 {% assign people_sorted = site.people | sort: 'joined' | where: 'lang', page.lang %}
-{% assign role_array = "pi|postdoc|phd-student|ms-student|undergrad|researchstaff|visiting|others|alumni" | split: "|" %}
+{% assign role_array = "pi|postdoc|researchstaff|phd-student|ms-student|undergrad|visiting|others|alumni" | split: "|" %}
 {% for role in role_array %}
 	{% assign people_in_role = people_sorted | where: 'position', role %}
 	{% if people_in_role.size == 0 and role != 'alumni'%}
