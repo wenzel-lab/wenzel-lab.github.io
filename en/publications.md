@@ -10,7 +10,7 @@ Also in <a href="https://scholar.google.com/citations?user=RiMA-zwAAAAJ&sortby=p
 
 _Video-based pooled screening yields improved far-red genetically encoded voltage indicators_<br>
 H. Tian, H. C. Davis, J. D. Wong-Campos, P. Park, L. Z. Fan, B. Gmeiner, S. Begum, C. A. Werley, G. B. Borja, H. Upadhyay, H. Shah, J. Jacques, Y. Qi, V. Parot, K. Deisseroth and A. E. Cohen <br>
-Nat Methods (2023). [read main text here](https://rdcu.be/c23mV), [pdf supplement](/files/pubs/journal/nmeth/41592_2022_1743_MOESM1_ESM.pdf), [publisher's link](https://doi.org/10.1038/s41592-022-01743-5)
+Nature Methods (2023). [read main text here](https://rdcu.be/c23mV), [pdf supplement](/files/pubs/journal/nmeth/41592_2022_1743_MOESM1_ESM.pdf), [publisher's link](https://doi.org/10.1038/s41592-022-01743-5)
 
 
 _Confocal 3d reflectance imaging through multimode fiber without wavefront shaping_<br>
