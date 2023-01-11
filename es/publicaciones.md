@@ -8,9 +8,15 @@ ref: 3-pubs
 
 También en <a href="https://scholar.google.com/citations?user=RiMA-zwAAAAJ&sortby=pubdate">Google Scholar</a>.
 
+_Video-based pooled screening yields improved far-red genetically encoded voltage indicators
+_<br>
+H. Tian, H. C. Davis, J. D. Wong-Campos, P. Park, L. Z. Fan, B. Gmeiner, S. Begum, C. A. Werley, G. B. Borja, H. Upadhyay, H. Shah, J. Jacques, Y. Qi, V. Parot, K. Deisseroth and A. E. Cohen <br>
+Nat Methods (2023). [leer el texto principal aquí](https://rdcu.be/c23mV), [pdf suplemento](/files/pubs/journal/nmeth/41592_2022_1743_MOESM1_ESM.pdf), [link editorial](https://doi.org/10.1038/s41592-022-01743-5)
+
+
 _Confocal 3d reflectance imaging through multimode fiber without wavefront shaping_<br>
 S.-Y. Lee,V. J. Parot, B. E. Bouma, and M. Villiger <br>
-Optica, vol. 9, pp. 112–120, (2022). [pdf principal](/files/pubs/journal/optica/optica-9-1-112.pdf), [pdf suplemento](/files/pubs/journal/optica/5580481.pdf), [publisher's link](https://doi.org/10.1364/OPTICA.446178)
+Optica, vol. 9, pp. 112–120, (2022). [pdf principal](/files/pubs/journal/optica/optica-9-1-112.pdf), [pdf suplemento](/files/pubs/journal/optica/5580481.pdf), [link editorial](https://doi.org/10.1364/OPTICA.446178)
 
 
 <img class="pfloat-right" src="/images/pubs/202002 mmf.png" width="25%" loading="lazy" data-action=zoom>
