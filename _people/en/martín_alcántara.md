@@ -2,6 +2,7 @@
 name: Martín Alcántara
 position: undergrad
 ref: m.alcantara@uc.cl
+published: false
 ---
 
 - _Undergrad student, Engineering School, Catholic University of Chile_

@@ -2,6 +2,7 @@
 name: Bastián Urbina
 position: undergrad
 ref: urbinagarridobastian@uc.cl
+published: false
 ---
 
 - _Undergrad student, Engineering School, Catholic University of Chile_

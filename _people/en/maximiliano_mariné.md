@@ -1,6 +1,7 @@
 ---
 name: Maximiliano Mariné
 position: undergrad
+avatar: maximiliano-marine.jpg
 ref: maxmarine@uc.cl
 ---
 

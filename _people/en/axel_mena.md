@@ -3,6 +3,7 @@ name: Axel Mena
 position: undergrad
 avatar: axel-mena.jpg
 ref: axel.mena@uc.cl
+published: false
 ---
 
 - _Undergrad student, Physics Department, Catholic University of Chile_

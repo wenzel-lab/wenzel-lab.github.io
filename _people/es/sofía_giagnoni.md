@@ -3,6 +3,7 @@ name: Sofía Giagnoni
 position: undergrad
 avatar: sofía-giagnoni.jpg
 ref: sofa.giagnoni@uc.cl
+published: false
 ---
 
 - _Estudiante de pregrado, Escuela de Ingeniería, Pontificia Universidad Católica de Chile_

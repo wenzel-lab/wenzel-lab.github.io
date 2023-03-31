@@ -2,6 +2,7 @@
 name: Valentina Espinoza
 position: undergrad
 ref: vespinozc@uc.cl
+published: false
 ---
 
 - _Estudiante de pregrado, Escuela de Ingeniería, Pontificia Universidad Católica de Chile_
