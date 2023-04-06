@@ -1,8 +1,8 @@
 ---
 name: Vicente Parot
+ref: vparot@uc.cl
 position: pi
 avatar: vparot-dark.jpg
-ref: vparot@uc.cl
 ---
 
 - _[Assistant Professor](https://ingenieriabiologicaymedica.uc.cl/es/personas/academicos/797-vicente-parot), Institute for Biological and Medical Engineering, Pontifical Catholic University of Chile_<br>

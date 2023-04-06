@@ -1,11 +1,12 @@
 ---
 name: Iván Vergara
-position: undergrad
-avatar: ivan-vergara.jpg
 ref: ivl@uc.cl
-published: false
+position: alumni
+description: 'Investigación de pregrado'
+when: '2022-1'
+avatar: ivan-vergara.jpg
 ---
 
 - _Estudiante de pregrado, Escuela de Ingeniería, Pontificia Universidad Católica de Chile_
 
-Iván está trabajando en control optomecánico de posicionamiento de muestras para microscopía. 
+Iván trabajó en control optomecánico de posicionamiento de muestras para microscopía. 

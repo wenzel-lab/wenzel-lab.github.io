@@ -1,8 +1,8 @@
 ---
 name: Ruth Vallejos
+ref: rcvallejos@uc.cl
 position: researchstaff
 avatar: ruth-vallejos.jpg
-ref: rcvallejos@uc.cl
 ---
 
 - _Graduated in Electrical Engineering, Engineering School, Catholic University of Chile_

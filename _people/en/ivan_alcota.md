@@ -1,11 +1,13 @@
 ---
 name: Iván Alcota
-position: undergrad
-avatar: ivan-alcota.jpg
 ref: ivanalcota@uc.cl
+position: alumni
+description: 'Undergrad research'
+when: '2022-2'
+avatar: ivan-alcota.jpg
 published: false
 ---
 
 - _Undergrad student, Engineering School, Catholic University of Chile_
 
-Iván is working on methods to identify neural signals in optical electrophysiology data.
+Iván worked on methods to identify neural signals in optical electrophysiology data.

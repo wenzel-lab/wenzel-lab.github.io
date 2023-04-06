@@ -1,8 +1,8 @@
 ---
 name: Esteban Chiu
+ref: echiu@uc.cl
 position: undergrad
 avatar: esteban-chiu.jpg
-ref: echiu@uc.cl
 ---
 
 - _Estudiante de pregrado, Escuela de Odontología, Pontificia Universidad Católica de Chile_

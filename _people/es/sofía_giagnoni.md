@@ -1,11 +1,12 @@
 ---
 name: Sofía Giagnoni
-position: undergrad
-avatar: sofía-giagnoni.jpg
 ref: sofa.giagnoni@uc.cl
-published: false
+position: alumni
+description: 'Investigación de pregrado'
+when: '2022-2'
+avatar: sofía-giagnoni.jpg
 ---
 
 - _Estudiante de pregrado, Escuela de Ingeniería, Pontificia Universidad Católica de Chile_
 
-Sofía está trabajando en integración automática de imágenes de piel usando deep learning.
+Sofía trabajó en integración automática de imágenes de piel usando deep learning.

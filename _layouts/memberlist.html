@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="container content page">
-{% assign people_sorted = site.people | sort: 'joined' | where: 'lang', page.lang %}
+{% assign people_sorted = site.people | sort: 'when' | where: 'lang', page.lang %}
 {% assign role_array = "pi|postdoc|researchstaff|phd-student|ms-student|undergrad|visiting|others|alumni" | split: "|" %}
 {% for role in role_array %}
 	{% assign people_in_role = people_sorted | where: 'position', role %}
@@ -27,7 +27,36 @@ layout: default
   </div>    
   <hr>
   {% else %}
-  {{ content }}
+    <table>
+      <thead>
+        <tr>
+          <th>{{ page.aheader.name }}</th>
+          <th>{{ page.aheader.description }}</th>
+          <th>{{ page.aheader.where }}</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% assign people_in_role_reversed = people_in_role | reverse %}
+        {% for profile in people_in_role_reversed %}
+        <tr>
+          <td><a class="name" href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a></td>
+          <td>{{ profile.description }} {{ profile.when }}</td>
+          <td>{{ profile.where }}</td>
+        </tr>
+        {% endfor %}
+        <tr><td>Gustavo Cornejo</td><td>IPre 2021-2</td><td></td></tr>
+        <tr><td>Matías Martínez</td><td>IPre 2021-2</td><td></td></tr>
+        <tr><td>Francisco Javier Concha</td><td>IPre 2021-2</td><td></td></tr>
+        <tr><td>Yerko Chávez</td><td>IPre 2021-2</td><td></td></tr>
+        <tr><td>Rafael Kaempfer</td><td>IPre 2021-1</td><td></td></tr>
+        {% comment %}
+        <tr><td>Ruth Vallejos</td><td>IPre 2021-1</td><td></td></tr>
+        {% endcomment %}
+      </tbody>
+    </table>
   {% endif %}
 {% endfor %}
+
+{{ content }}
+
 </div>

@@ -1,11 +1,12 @@
 ---
 name: Iván Vergara
-position: undergrad
-avatar: ivan-vergara.jpg
 ref: ivl@uc.cl
-published: false
+position: alumni
+description: 'Undergrad research'
+when: '2022-1'
+avatar: ivan-vergara.jpg
 ---
 
 - _Undergrad student, Engineering School, Catholic University of Chile_
 
-Iván is working on optomechanic control of microscope sample positioning.
+Iván worked on optomechanic control of microscope sample positioning.

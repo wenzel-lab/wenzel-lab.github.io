@@ -1,11 +1,13 @@
 ---
 name: Nicolás Buzeta
-position: undergrad
-avatar: nicolas-buzeta.jpg
 ref: nicolas.buzeta@uc.cl
-published: false
+position: alumni
+description: 'Undergrad research'
+when: '2022-1'
+where: ''
+avatar: nicolas-buzeta.jpg
 ---
 
 - _Undergrad student, Engineering School, Catholic University of Chile_
 
-Nicolás is working on widefield skin image aquisition.
+Nicolás worked on widefield skin image aquisition.

@@ -1,10 +1,12 @@
 ---
 name: Axel Mena
-position: undergrad
-avatar: axel-mena.jpg
 ref: axel.mena@uc.cl
+position: alumni
+description: 'Investigación de pregrado'
+when: '2022-2'
+avatar: axel-mena.jpg
 ---
 
 - _Estudiante de pregrado, Departamento de Física, Pontificia Universidad Católica de Chile_
 
-Axel está trabajando en la implementación de un microscopio de neurofisiología óptica.
+Axel trabajó en la implementación de un microscopio de neurofisiología óptica.

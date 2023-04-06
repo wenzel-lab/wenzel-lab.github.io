@@ -1,10 +1,11 @@
 ---
 name: Martín Alcántara
-position: undergrad
 ref: m.alcantara@uc.cl
-published: false
+position: alumni
+description: 'Undergrad research'
+when: '2022-2'
 ---
 
 - _Undergrad student, Engineering School, Catholic University of Chile_
 
-Martín is working on signal identification in optical electrophysiology using deep learning.
+Martín worked on signal identification in optical electrophysiology using deep learning.

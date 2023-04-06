@@ -1,6 +1,8 @@
 ---
 name: Bastián Urbina
-position: undergrad
+position: alumni
+description: 'Investigación de pregrado'
+when: '2022-2'
 ref: urbinagarridobastian@uc.cl
 published: false
 ---

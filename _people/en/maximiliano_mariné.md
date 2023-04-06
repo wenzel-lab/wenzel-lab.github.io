@@ -1,8 +1,8 @@
 ---
 name: Maximiliano Mariné
+ref: maxmarine@uc.cl
 position: undergrad
 avatar: maximiliano-marine.jpg
-ref: maxmarine@uc.cl
 ---
 
 - _Undergrad student, Medicine School, Catholic University of Chile_

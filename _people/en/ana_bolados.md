@@ -1,8 +1,8 @@
 ---
 name: Ana Bolados
+ref: ana.bolados@uc.cl
 position: undergrad
 avatar: ana-bolados.jpg
-ref: ana.bolados@uc.cl
 ---
 
 - _Undergrad student, Engineering School, Catholic University of Chile_

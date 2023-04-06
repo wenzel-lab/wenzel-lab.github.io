@@ -1,11 +1,12 @@
 ---
 name: Sofía Giagnoni
-position: undergrad
-avatar: sofía-giagnoni.jpg
 ref: sofa.giagnoni@uc.cl
-published: false
+position: alumni
+description: 'Undergrad research'
+when: '2022-2'
+avatar: sofía-giagnoni.jpg
 ---
 
 - _Undergrad student, Engineering School, Catholic University of Chile_
 
-Sofía is working on automatic integration of skin images using deep learning.
+Sofía worked on automatic integration of skin images using deep learning.
