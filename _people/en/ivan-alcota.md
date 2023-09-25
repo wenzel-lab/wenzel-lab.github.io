@@ -4,7 +4,6 @@ ref: ivanalcota@uc.cl
 position: alumni
 description: 'Undergrad research'
 when: '2022-2'
-avatar: ivan-alcota.jpg
 published: false
 ---
 

@@ -4,8 +4,6 @@ ref: nicolas.buzeta@uc.cl
 position: alumni
 description: 'Undergrad research'
 when: '2022-1'
-where: ''
-avatar: nicolas-buzeta.jpg
 ---
 
 - _Undergrad student, Engineering School, Catholic University of Chile_

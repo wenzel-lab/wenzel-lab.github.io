@@ -1,8 +1,9 @@
 ---
 name: Ana Bolados
 ref: ana.bolados@uc.cl
-position: undergrad
-avatar: ana-bolados.jpg
+position: alumni
+description: 'Investigación de pregrado'
+when: '2023-1'
 ---
 
 - _Estudiante de pregrado, Escuela de Ingeniería, Pontificia Universidad Católica de Chile_

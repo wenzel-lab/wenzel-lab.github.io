@@ -4,7 +4,6 @@ ref: sofa.giagnoni@uc.cl
 position: alumni
 description: 'Undergrad research'
 when: '2022-2'
-avatar: sofía-giagnoni.jpg
 ---
 
 - _Undergrad student, Engineering School, Catholic University of Chile_

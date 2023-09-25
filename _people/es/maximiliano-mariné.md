@@ -2,7 +2,6 @@
 name: Maximiliano Mariné
 ref: maxmarine@uc.cl
 position: undergrad
-avatar: maximiliano-marine.jpg
 ---
 
 - _Estudiante de pregrado, Escuela de Medicina, Pontificia Universidad Católica de Chile_

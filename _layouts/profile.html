@@ -3,11 +3,13 @@ layout: default
 ---
 <div class="container content page">
   <h3 class="page-title">{{ page.name }}</h3>
-  {% if page.avatar %}
-    <p>
-      <img width="200" src="{{site.baseurl}}/images/people/{{page.avatar}}" loading="lazy">
-    </p>
-  {% endif %}
+	{% assign avatar_path = page.id | replace_first: page.lang, "images" | replace_first: site.lang_teamnames[page.lang], "people" | append: ".jpg" %}
+	{% assign avatar_file = site.static_files | where: "path", avatar_path  %}
+	{% if avatar_file.size != 0 %}
+		<p>
+		  <img width="200" src="{{site.baseurl}}{{avatar_path}}" loading="lazy">
+		</p>
+	{% endif %}
   <p>
     <i class="fa fa-envelope-o"></i>
     <code class="language-plaintext highlighter-rouge">

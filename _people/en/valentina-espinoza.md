@@ -4,7 +4,6 @@ ref: vespinozc@uc.cl
 position: alumni
 description: 'Undergrad research'
 when: '2022-2'
-where: ''
 ---
 
 - _Undergrad student, Engineering School, Catholic University of Chile_

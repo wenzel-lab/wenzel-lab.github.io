@@ -15,11 +15,12 @@ layout: default
     {% for profile in people_in_role %}
     <div class="list-item-people">
       <p class="list-post-title">
-        {% if profile.avatar %}
-          <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="{{site.baseurl}}/images/people/{{profile.avatar}}"></a>
-        {% else %}
-          <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="{{site.baseurl}}/images/people/empty.jpg"></a>
+		{% assign avatar_path = profile.id | replace_first: profile.lang, "images" | replace_first: site.lang_teamnames[profile.lang], "people" | append: ".jpg" %}
+		{% assign avatar_file = site.static_files | where: "path", avatar_path  %}
+        {% if avatar_file.size == 0 %}
+			{% assign avatar_path = "/images/people/empty.jpg" %}
         {% endif %}
+          <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="{{site.baseurl}}{{avatar_path}}"></a>
         <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a>
       </p>
     </div>    

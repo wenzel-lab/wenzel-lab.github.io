@@ -4,7 +4,6 @@ ref: sofa.giagnoni@uc.cl
 position: alumni
 description: 'Investigación de pregrado'
 when: '2022-2'
-avatar: sofía-giagnoni.jpg
 ---
 
 - _Estudiante de pregrado, Escuela de Ingeniería, Pontificia Universidad Católica de Chile_

@@ -19,6 +19,9 @@ lang_institution:
 lang_names:
   en: english
   es: español
+lang_teamnames:
+  en: people
+  es: equipo
 
 # URL
 url:                "" # https://vparot.github.io/ # http://localhost:4000/ # 

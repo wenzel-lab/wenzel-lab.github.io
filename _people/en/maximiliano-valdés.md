@@ -2,7 +2,6 @@
 name: Maximiliano Valdés
 ref: mvvaldes2@uc.cl
 position: ms-student
-avatar: maximiliano-valdes.jpg
 ---
 
 - _MS student, Engineering School, Catholic University of Chile_

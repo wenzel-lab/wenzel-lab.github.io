@@ -4,7 +4,6 @@ ref: axel.mena@uc.cl
 position: alumni
 description: 'Undergrad research'
 when: '2022-2'
-avatar: axel-mena.jpg
 ---
 
 - _Undergrad student, Physics Department, Catholic University of Chile_
