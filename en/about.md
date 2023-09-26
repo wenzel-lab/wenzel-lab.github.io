@@ -23,7 +23,7 @@ Our attention is presently drawn to improving the spatiotemporal resolution of v
 Initially, our group has been composed of engineers who are interested in learning biophysics, optics, numerical analysis methods and deep learning, neurobiology, various medical imaging topics, or combinations thereof. Many of us have been afraid of topics we didn't know, until we remember that everything we know has been learnt by us before.  Visit our [people page]({{ site.baseurl }}/en/people/) to see more information on each person who works in the lab (publications, contact information, photos).
 
 ### Lab Culture
-Our lab welcomes all who love to learn and are thirsty for more. Everyone is encouraged to give feedback on everyone else's results; better identify flaws with help from friends than from angry reviewers. We usually hold regular group meetings and project meetings. Progress is focused on goals and driven by self interest and motivation. We use a calendar that everyone can edit to share Lab activities, and a slack channel to enjoy spam-free communications. 
+Our lab welcomes all who love to learn and are thirsty for more. Everyone is encouraged to give feedback on everyone else's results; better identify flaws with help from friends than from angry reviewers. We usually hold regular group meetings and project meetings. Progress is focused on goals and driven by self interest and motivation. We use a Google calendar to share Lab activities, and a slack channel to enjoy spam-free communications. 
 
 ### Collaborators
 Here are some cool people in fields that interest us. **note:** This list is in no way complete. If you've collaborated with us and want a link here, let us know!
