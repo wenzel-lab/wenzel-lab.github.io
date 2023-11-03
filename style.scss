@@ -19,7 +19,7 @@ html {
 		background-repeat: repeat; 
   font-family: "Open Sans", "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 18px;
-  font-weight: 500; // VP 2023 increase weight
+  font-weight: 500; // VP 2023 increase weight from 300 to 500
   line-height: 1.6;
 
   @media (min-width: 38em) {
@@ -79,14 +79,14 @@ h4, h5, h6 {
 
 p {
   font-family: "Open Sans", "Helvetica Neue", Helvetica;
-  font-weight: 500; // VP 2023 increase weight
+  font-weight: 500; // VP 2023 increase weight from 300 to 500
   margin: 0 0 1rem;
   font-size: 0.8rem;
 }
 
 ul, ol, dl {
   font-family: "Open Sans", "Helvetica Neue", Helvetica;
-  font-weight: 500; // VP 2023 increase weight
+  font-weight: 500; // VP 2023 increase weight from 300 to 500
   font-size: 0.8rem;
   margin-top: 0;
   margin-bottom: 1rem;
@@ -162,7 +162,7 @@ hr {
 
 strong {
   color: #333;
-  font-weight: 600;
+  font-weight: 650; // VP 2023 increased weight from 600 to 650
 }
 
 abbr {
@@ -336,7 +336,7 @@ tbody tr:nth-child(odd) th {
 .masthead {
 
   &-title {
-    font-weight: 500; // VP 2023 increase weight
+    font-weight: 500; // VP 2023 increase weight from 300 to 500
 
     a {
       color: #333;
@@ -374,7 +374,7 @@ tbody tr:nth-child(odd) th {
 
     a {
       color: #aaa;
-      font-weight: 500; // VP 2023 increase weight
+      font-weight: 500; // VP 2023 increase weight from 300 to 500
       text-transform: lowercase;
       -webkit-transition: all .2s ease;
          -moz-transition: all .2s ease;
@@ -551,7 +551,7 @@ tbody tr:nth-child(odd) th {
 .navbar-brand {
   //font-weight: bold;
   font-size: 20px;
-  font-weight: 500; // VP 2023 increase weight
+  font-weight: 500; // VP 2023 increase weight from 300 to 500
 }
 
 // change font for navbar
@@ -560,8 +560,8 @@ tbody tr:nth-child(odd) th {
 		background-repeat: repeat; 
   font-family: 'Open Sans', sans-serif;
   text-transform: uppercase;
-  font-weight: 400;
-  font-size: 80%;
+  font-weight: 500; // VP 2023 increase weight from 400 to 500
+  font-size: 85%; // VP 2023 increase size from 80% to 85%
 }
 
 // fix menu bar spacing for mobile
