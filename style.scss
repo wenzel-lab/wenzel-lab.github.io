@@ -19,7 +19,7 @@ html {
 		background-repeat: repeat; 
   font-family: "Open Sans", "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 18px;
-  font-weight: 300;
+  font-weight: 500; // VP 2023 increase weight
   line-height: 1.6;
 
   @media (min-width: 38em) {
@@ -79,14 +79,14 @@ h4, h5, h6 {
 
 p {
   font-family: "Open Sans", "Helvetica Neue", Helvetica;
-  font-weight: 300;
+  font-weight: 500; // VP 2023 increase weight
   margin: 0 0 1rem;
   font-size: 0.8rem;
 }
 
 ul, ol, dl {
   font-family: "Open Sans", "Helvetica Neue", Helvetica;
-  font-weight: 300;
+  font-weight: 500; // VP 2023 increase weight
   font-size: 0.8rem;
   margin-top: 0;
   margin-bottom: 1rem;
@@ -336,7 +336,7 @@ tbody tr:nth-child(odd) th {
 .masthead {
 
   &-title {
-    font-weight: 300;
+    font-weight: 500; // VP 2023 increase weight
 
     a {
       color: #333;
@@ -374,7 +374,7 @@ tbody tr:nth-child(odd) th {
 
     a {
       color: #aaa;
-      font-weight: 300;
+      font-weight: 500; // VP 2023 increase weight
       text-transform: lowercase;
       -webkit-transition: all .2s ease;
          -moz-transition: all .2s ease;
@@ -551,7 +551,7 @@ tbody tr:nth-child(odd) th {
 .navbar-brand {
   //font-weight: bold;
   font-size: 20px;
-  font-weight: 300;
+  font-weight: 500; // VP 2023 increase weight
 }
 
 // change font for navbar
