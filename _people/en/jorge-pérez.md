@@ -1,7 +1,7 @@
 ---
 name: Jorge Luis Pérez Valenzuela
 ref: jlperez6@uc.cl 
-position: alumni
+position: researchstaff
 description: 'Trabajo de título'
 when: '2024-1'
 ---

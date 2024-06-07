@@ -1,7 +1,7 @@
 ---
 name: Christian Bignotti
 ref: cbignot1@swarthmore.edu
-position: undergrad
+position: visiting
 description: 'Undergrad research'
 when: '2024'
 ---
