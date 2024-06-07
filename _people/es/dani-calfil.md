@@ -1,7 +1,7 @@
 ---
 name: Dani Calfil
 ref: dcalfim@uc.cl
-position: undergrad
+position: alumni
 description: 'Undergrad research'
 when: '2023-2'
 ---
