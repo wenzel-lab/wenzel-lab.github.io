@@ -2,7 +2,7 @@
 name: Andrés Mendoza
 ref: aemendoza@uc.cl
 position: alumni
-description: 'Undergrad research'
+description: 'Investigación de pregrado'
 when: '2023-2'
 ---
 

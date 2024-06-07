@@ -2,7 +2,7 @@
 name: Marjorie González
 ref: marjorie.gonzalez@uc.cl
 position: alumni
-description: 'Undergrad research'
+description: 'Investigación de pregrado'
 when: '2023-2'
 ---
 
