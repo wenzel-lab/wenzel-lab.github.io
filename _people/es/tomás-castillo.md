@@ -1,6 +1,6 @@
 ---
 name: Tomás Castillo
-ref: nvivancos12@tamu.edu
+ref: toms.castillo@uc.cl
 position: undergrad
 description: 'Undergrad research'
 when: '2024-1'

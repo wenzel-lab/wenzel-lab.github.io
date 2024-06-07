@@ -1,6 +1,6 @@
 ---
 name: Antonia Norambuena
-ref: nvivancos12@tamu.edu
+ref: antonia.norambuena@uc.cl
 position: undergrad
 description: 'Undergrad research'
 when: '2024'
