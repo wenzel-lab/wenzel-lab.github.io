@@ -1,7 +1,7 @@
 ---
 name: Ignacio Vivancos
 ref: nvivancos12@tamu.edu
-position: undergrad
+position: visiting
 description: 'Undergrad research'
 when: '2024'
 ---
