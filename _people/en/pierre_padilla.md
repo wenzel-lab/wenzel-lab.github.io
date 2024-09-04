@@ -1,6 +1,6 @@
 ---
 name: Pierre Padilla
-position: fellow
+position: gradstudent
 avatar: pierre_profile_2024.jpg
 email: 
 ---

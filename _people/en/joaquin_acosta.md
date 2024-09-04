@@ -1,6 +1,6 @@
 ---
 name: Joaquin Acosta
-position: fellow
+position: researchstaff
 avatar: joaquin_profile_2024.jpg
 email: 
 ---

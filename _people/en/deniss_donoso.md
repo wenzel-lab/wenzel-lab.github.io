@@ -1,6 +1,6 @@
 ---
 name: Deniss Donoso
-position: researchstaff
+position: other
 avatar: deniss_profile_2024.jpg
 email: librehub@uc.cl
 ---

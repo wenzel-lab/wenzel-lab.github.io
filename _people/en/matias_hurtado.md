@@ -1,6 +1,6 @@
 ---
 name: Matias Hurtado
-position: fellow
+position: researchstaff
 avatar: matias_profile_2024.jpg
 email: 
 ---
