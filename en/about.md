@@ -4,12 +4,10 @@ permalink: /en/about/
 ref: 1-about
 ---
 
-<img class="pfloat-right" src="/images/pubs/201900 rcamptopatch.jpg" width="50%" loading="lazy" data-action=zoom> 
+<img class="pfloat-right" src="/images/others/sorting-chip.jpg" width="50%" loading="lazy" data-action=zoom> 
 
 ### Research
 We are a research team developing the next generation of high-throughput technologies in order to address complex biomedical questions. To capture as much biological complexity as possible during experiments, we use a technique called Droplet Microfluidics, where tiny water droplets serve as miniature labs. These droplets allow us to look closely at everything from single molecules to cells, body microbes, and tiny organs, especially how they work together. Using droplets and bioimaging, our team can study how millions of these elements interact at different levels, uncovering mysteries about our body's inner workings on different scales. The Lab also develops accessible open-source hardware for this research, so scientists worldwide can join, use and change these exciting methods, making top-notch science accessible to all. 
-
-<div class="parallax2"></div><br>
 
 ### Lab Members
 Our group is extremly interdisciplinary with biochemist, biotechnologists, physicists, engineers, designers, and more. We complement each other and collaborate with external specialists to learn from each other and build advanced research methods and tools together, in order to study high-impact biomedical questions in-vitro. Visit our [people page]({{ site.baseurl }}/en/people/) to see more information on each person in the team.
@@ -20,15 +18,15 @@ Our lab welcomes those who love to learn and are thirsty for more. We align with
 ### Collaborators
 **note:** This list is in no way complete. If you've collaborated with us and want a link here, let us know!
 
-**Pontifical Catholic University of Chile:**
+**Internal - Pontifical Catholic University of Chile:**
 - [Vicente Parot - Institue for Biological and Medical Engineering](https://parotlab.github.io/)
 - [Pablo Irarrázaval - Institue for Biological and Medical Engineering](https://ingenieriabiologicaymedica.uc.cl/es/personas/academicos/72-pablo-irarrazaval)
 - [Carolina Serrano Honeyman - Gastroenterología y Nutrición, Facultad de Medicina](https://medicina.uc.cl/persona/dra-carolina-serrano-h/)
 - [Birger Seifert - Facultad de Física](http://www.fis.puc.cl/~bseifert/)
 
-**Other:**
+**External:**
 - [Rafael Araos - Médico cirujano, Universidad de Desarollo, Chile](https://medicina.udd.cl/persona/rafael-araos-md-mmsc/#!/page=1)
-- [Andreas Peschel - Interfaculty Institute of Microbiology and Infection Medicine, University of Tübingen, DE](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/interfakultaere-einrichtungen/imit/arbeitsgruppen/infektionsbiologie/ag-peschel/)
+- [Andreas Peschel - Microbiology and Infection Medicine, University of Tübingen, DE](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/interfakultaere-einrichtungen/imit/arbeitsgruppen/infektionsbiologie/ag-peschel/)
 - [Kendra Nyberg - Automation Group, Calico Labs, USA](https://www.calicolabs.com/story/kendra-nyberg-is-microfluidics-group-lead-in-the-automation-group/)
 - [Jenny Molloy - Open Bioeconomy Lab, Cambridge and Torento, UK and Italy](https://openbioeconomy.org/people/dr-jenny-molloy/)
 - [Bryan Spring, Biomedical Optics, Northeastern University, USA](https://cos.northeastern.edu/people/bryan-spring/)
