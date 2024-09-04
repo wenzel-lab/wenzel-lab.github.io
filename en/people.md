@@ -6,10 +6,9 @@ ref: 2-people
 layout: memberlist
 role_tags:
   pi: 'Principal Investigator'
-  postdoc: 'Postdoctoral Fellows'
-  phd-student: 'PhD Students'
   researchstaff: 'Research Staff'
-  ms-student: 'MS Students'
+  postdoc: 'Postdoctoral Fellows'
+  gradstudent: 'Graduate Students'
   undergrad: 'Undergraduate Students'
   visiting: 'Visiting Scholars'
   others: 'Other'
