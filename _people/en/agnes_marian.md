@@ -1,6 +1,6 @@
 ---
 name: Agnes Marian
-position: other
+position: others
 avatar: agnes_profile_2024.jpg
 email: 
 ---
