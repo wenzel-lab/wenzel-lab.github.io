@@ -8,11 +8,11 @@ role_tags:
   pi: 'Principal Investigator'
   postdoc: 'Postdoctoral Fellows'
   phd-student: 'PhD Students'
+  researchstaff: 'Research Staff'
   ms-student: 'MS Students'
   undergrad: 'Undergraduate Students'
-  researchstaff: 'Research Staff'
   visiting: 'Visiting Scholars'
-  others: 'Honorary Members'
+  others: 'Collaborators'
   alumni: 'Alumni'
 aheader:
   name: 'Who are they'

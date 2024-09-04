@@ -8,11 +8,11 @@ role_tags:
   pi: 'Investigador Principal'
   postdoc: 'Postdoctorados'
   phd-student: 'Estudiantes de Doctorado'
+  researchstaff: 'Personal de Investigación'
   ms-student: 'Estudiantes de Magíster'
   undergrad: 'Estudiantes de Pregrado'
-  researchstaff: 'Personal de Investigación'
   visiting: 'Visitantes'
-  others: 'Miembros Honoríficos'
+  others: 'Colaboradores'
   alumni: 'Antiguos miembros'
 aheader:
   name: 'Quién es'

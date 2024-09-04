@@ -7,8 +7,8 @@ position: pi
 - _[Profesor Asistente](https://ingenieriabiologicaymedica.uc.cl/es/personas/academicos/797-vicente-parot), Instituto de Ingeniería Biológica y Médica, Pontificia Universidad Católica de Chile_<br>
 - _[Investigador Visitante](https://octresearch.org/people/bouma-group/), Hospital General de Massachusetts, Escuela de Medicina de Harvard_<br>
 
-[Vicente Parot](http://www.mit.edu/~vparot/) dirige este Lab en la Pontificia Universidad Católica de Chile.
-Vicente está interesado en desarrollar herramientas de imagen computacional para estudiar neurociencia y mejorar los microendoscopios en medicina. Vicente trabajó con Pablo Irarrázaval durante su Magister en Ciencias de la Ingeniería en la PUC, con Adam Cohen durante sus estudios de doctorado en la Universidad de Harvard y con Brett Bouma durante su postdoctorado en el Hospital General de Massachusetts. Vicente es profesor en la Universidad Católica desde 2020, donde también enseña el curso IBM2122 Diseño en Ingeniería Biomédica. 
+[Vicente Parot](http://www.mit.edu/~vparot/) es colaborador del proyecto LIBRE hub, también compartimos espacio de laboratorio y colaboramos en implementaciones ópticas.
+Vicente está interesado en el desarrollo de herramientas de imagen computacional para el estudio de la neurociencia y el avance de la microendoscopia médica. Vicente se formó como estudiante de pregrado en la Universidad Católica de Chile con Pablo Irarrazaval, como estudiante de postgrado en Harvard con Adam Cohen, y como postdoc en el Hospital General de Massachusetts con Brett Bouma. Se unió a la Universidad Católica como Profesor Asistente en 2020, donde también enseña IBM2122 Diseño de Ingeniería Biomédica. 
 
 **Oficina**<br>
 Edificio Ciencia y Tecnología, piso 7, oficina 9 <br>
