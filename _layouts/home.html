@@ -66,22 +66,18 @@ layout: page
 <!-- Latest news box -->
     <div class="w3-container" style="   background: #f0f8ff; padding: 25px; border-radius:10px; border: 1px solid #5d8aa8">
       <div style="text-align:left">
-        <h3> Lastest News </h3>
+        <h3> {{ page.newstitle }} </h3>
         <span style="display: block; margin-bottom: 1em"></span>
         <div class="news">
-            {% capture now %}{{'now' | date: '%s' | minus: 0 %}}{% endcapture %}
-            <ul style="list-style-position:outside;padding:20px" >
-              {% for new in site.data.news %}
-                {% capture date %}{{new.date | date: '%s' | plus: 0 %}}{% endcapture %}
-                {% if date < now %}
-                  <li>
-                    <span>
-                      {{ new.details }}
-                    </span>
-                  </li>
-                {% endif %}
-              {% endfor %}
-            </ul>
+          <ul style="list-style-position:outside;padding:20px" >
+            {% for item in site.data.news %}
+              <li>
+                <span>
+                  {{ item.date }}: {{ item[page.lang] }}
+                </span>
+              </li>
+            {% endfor %}
+          </ul>
         </div>
       </div >
     </div>
