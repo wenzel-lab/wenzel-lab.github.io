@@ -1,16 +1,16 @@
 # Basic
-name:               "Parot Lab"
-title:              "Parot Lab at Catholic University of Chile"
-description:        "this is a page for Vicente Parot's lab, we are an applied computational imaging lab at Catholic University of Chile in Santiago, Chile"
+name:               "Wenzel Lab"
+title:              "Wenzel Lab at Catholic University of Chile"
+description:        "this is a page for Tobias Wenzel's lab, we are a method development lab for high-throughput bioanalysis lab at Catholic University of Chile in Santiago, Chile"
 
 lang_title:
-  en: Parot Laboratory
-  es: Laboratorio Parot
+  en: Wenzel Lab
+  es: Laboratorio Wenzel
 lang_description:
   en: >- # this means to ignore newlines until "baseurl:"
-    Computational imaging for medicine and biology
+    Method development for high-throughput bioanalysis
   es: >- # this means to ignore newlines until "baseurl:"
-    Imagen computacional para biología y medicina
+    Desarrollo de métodos para bioanálisis de alto rendimiento
 lang_institution:
   en: >- # this means to ignore newlines until "baseurl:"
     Institute for Biological and Medical Engineering, Catholic University of Chile
@@ -24,7 +24,7 @@ lang_teamnames:
   es: equipo
 
 # URL
-url:                "" # https://vparot.github.io/ # http://localhost:4000/ # 
+url:                "" # https://wenzel-lab.github.io/ # http://localhost:4000/ # 
 baseurl:            ""
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
