@@ -12,7 +12,7 @@ role_tags:
   ms-student: 'MS Students'
   undergrad: 'Undergraduate Students'
   visiting: 'Visiting Scholars'
-  others: 'Collaborators'
+  others: 'Other'
   alumni: 'Alumni'
 aheader:
   name: 'Who are they'

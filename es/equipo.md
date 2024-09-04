@@ -12,7 +12,7 @@ role_tags:
   ms-student: 'Estudiantes de Magíster'
   undergrad: 'Estudiantes de Pregrado'
   visiting: 'Visitantes'
-  others: 'Colaboradores'
+  others: 'Otros'
   alumni: 'Antiguos miembros'
 aheader:
   name: 'Quién es'
