@@ -1,7 +1,7 @@
 ---
 name: Maximiliano Mariné
 ref: maxmarine@uc.cl
-position: undergrad
+position: alumni
 ---
 
 - _Undergrad student, Medicine School, Catholic University of Chile_
