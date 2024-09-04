@@ -3,30 +3,98 @@ layout: page
 ---
 <div class='container'>
   <header class="masthead text-center">
-    <img class='img-responsive center-block' src="/images/pubs/201900 rcamptopatch.jpg" width="80%" height="80%" data-action="zoom">
+      <div id="myCarousel" class="carousel slide" data-ride="carousel" style="height:450px; width:750px;">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+          <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+          <li data-target="#myCarousel" data-slide-to="1"></li>
+          <li data-target="#myCarousel" data-slide-to="2"></li>
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner" style="height:450px; width:750px;">
+          <div class="item active">
+            <a href="https://wenzel-lab.github.io/people/" target="_blank"><img style="max-width:100%;" src="/images/people/Wenzel-lab-team-2024.jpg" alt="team"></a>
+          </div>
+          
+          <div class="item">
+            <a href="https://wenzel-lab.github.io/about/" target="_blank"><img style="max-width:100%;" src="/images/others/EMBO practical.jpg" alt="research"></a>
+          </div>
+
+          <div class="item">
+            <a href="https://wenzel-lab.github.io/publications/" target="_blank"><img style="max-width:100%;" src="/images/others/sorting-chip.jpg" alt="research"></a>
+          </div>
+        </div>
+
+        <!-- Left and right controls -->
+        <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+          <span class="glyphicon glyphicon-chevron-left"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+        <a class="right carousel-control" href="#myCarousel" data-slide="next">
+          <span class="glyphicon glyphicon-chevron-right"></span>
+          <span class="sr-only">Next</span>
+        </a>
+      </div>
+    
+    <span style="display: block; margin-bottom: 2em"></span>
+    
     <p>
-      {{ content }}
-      <span style="display: block; margin-bottom: 3em"></span>
-      <a href="https://github.com/wenzel-lab"><i class="fa fa-github"></i> wenzel-lab</a>&nbsp;&nbsp;&nbsp;
-      <a href="https://twitter.com/MakerTobey"><i class="fa fa-twitter"></i> Tobias Wenzel</a>&nbsp;&nbsp;&nbsp;
-      <a href="mailto:tobias.wenzel@uc.cl"><i class="fa fa-envelope-o"></i> tobias.wenzel@uc.cl</a>
+    <i>The <strong>Wenzel Lab</strong> is a reasearch team developing high-throughput analysis methods to study cellular interactions with bioimaging, droplet microfluidics and multiomics - when possible as open source appropriate technology.</i>
+
+    <span style="display: block; margin-bottom: 3em"></span> 
+    <a href="https://github.com/wenzel-lab"><i class="fa fa-github"></i> wenzel-lab</a>&nbsp;&nbsp;&nbsp;
+    <a href="https://twitter.com/MakerTobey"><i class="fa fa-twitter"></i> Tobias Wenzel</a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.youtube.com/channel/UCKaffupDA8KKrDE0rd668Xw"><i class="fa fa-youtube"></i> YouTube</a>&nbsp;&nbsp;&nbsp;
+    <a href="mailto:tobias.wenzel@uc.cl"><i class="fa fa-envelope-o"></i> tobias.wenzel@uc.cl</a>
     </p>
+<!-- Suscribe box -->
+    <div class="w3-container" style="   background: #f0f8ff; padding: 25px; border-radius:10px; border: 1px solid #5d8aa8">
+      <div style="text-align:center">
+        <h3> Be up to date! </h3>
+        <span style="display: block; margin-bottom: 1em"></span>
+        <p>
+         Sign up for our LIBRE hub newsletter and receive updates on
+         our latest workshops, seminars, and LIBRE hub project publications.
+        </p>
+        <span style="display: block; margin-bottom: 1em"></span>
+        <a href="https://mailchi.mp/2efa11be3d6b/libre_hub" target="_blank"><button style="width:200px">Subscribe</button></a>
+        <!--  <a href="https://mailchi.mp/2efa11be3d6b/libre_hub" target="_blank"><button style="height:200px;width:200px">Subscribe</button></a>  -->
+      </div >
+    </div>
+    <span style="display: block; margin-bottom: 3em"></span>
+<!-- Latest news box -->
     <div class="w3-container" style="   background: #f0f8ff; padding: 25px; border-radius:10px; border: 1px solid #5d8aa8">
       <div style="text-align:left">
-        <h3> {{ page.newstitle }} </h3>
+        <h3> Lastest News </h3>
         <span style="display: block; margin-bottom: 1em"></span>
         <div class="news">
-          <ul style="list-style-position:outside;padding:20px" >
-            {% for item in site.data.news %}
-              <li>
-                <span>
-                  {{ item.date }}: {{ item[page.lang] }}
-                </span>
-              </li>
-            {% endfor %}
-          </ul>
+            {% capture now %}{{'now' | date: '%s' | minus: 0 %}}{% endcapture %}
+            <ul style="list-style-position:outside;padding:20px" >
+              {% for new in site.data.news %}
+                {% capture date %}{{new.date | date: '%s' | plus: 0 %}}{% endcapture %}
+                {% if date < now %}
+                  <li>
+                    <span>
+                      {{ new.details }}
+                    </span>
+                  </li>
+                {% endif %}
+              {% endfor %}
+            </ul>
         </div>
       </div >
     </div>
+<!--
+    <span style="display: block; margin-bottom: 3em"></span>
+    <a class="twitter-timeline" href="https://twitter.com/KordingLab" data-widget-id="695051708246941697">Tweets by @KordingLab</a>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+    <span style="display: block; margin-bottom: 3em"></span>
+    Institute for Biological and Medical Engineering at Pontificia Universidad Catolica de Chile<br>
+    San Joaquin Campus - Vicuña Mackenna 4860 Ave, Macul, Santiago, Chile
+    <span style="display: block; margin-bottom: 3em"></span>
+-->
   </header>
 </div>
+
