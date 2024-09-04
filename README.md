@@ -1,4 +1,4 @@
-# Parot lab page
+# Wenzel Lab webpage
 
 This is repository for [Wenzel Lab webpage](http://wenzel-lab.github.io/). We use Jekyll to run our Github page. We are welcome for other people to contribute to our site not just lab members. Feel free to fork and pull-request!
 
