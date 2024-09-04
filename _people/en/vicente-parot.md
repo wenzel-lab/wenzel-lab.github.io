@@ -2,12 +2,12 @@
 name: Tobias Wenzel
 position: pi
 avatar: tobias_profile_2024.jpg
-email: tobias.wenzel@uc.cl
+ref: tobias.wenzel@uc.cl
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-_Assistant Professor, Pontificia Universidad Catolica de Chile_<br>
+_Assistant Professor, Pontificia Universidad Catolica de Chile_<br>v
 
 - _[Profesor Asistente](https://ingenieriabiologicaymedica.uc.cl/en/people/faculty/821-tobias-wenzel), Instituto de Ingeniería Biológica y Médica, Pontificia Universidad Católica de Chile_<br>
 
