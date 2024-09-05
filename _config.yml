@@ -1,16 +1,16 @@
 # Basic
 name:               "Wenzel Lab"
 title:              "Wenzel Lab at Catholic University of Chile"
-description:        "this is a page for Tobias Wenzel's lab, we are a method development lab for high-throughput bioanalysis lab at Catholic University of Chile in Santiago, Chile"
+description:        "this is a page for Tobias Wenzel's lab, we are an open method development lab for high-throughput bioanalysis lab at Catholic University of Chile in Santiago, Chile"
 
 lang_title:
   en: Wenzel Lab
   es: Laboratorio Wenzel
 lang_description:
   en: >- # this means to ignore newlines until "baseurl:"
-    Method development for high-throughput bioanalysis
+    Open method development for high-throughput bioanalysis
   es: >- # this means to ignore newlines until "baseurl:"
-    Desarrollo de métodos para bioanálisis de alto rendimiento
+    Desarrollo de métodos libres para bioanálisis de alto rendimiento
 lang_institution:
   en: >- # this means to ignore newlines until "baseurl:"
     Institute for Biological and Medical Engineering, Catholic University of Chile
