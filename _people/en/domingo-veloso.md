@@ -1,5 +1,5 @@
 ---
-name: Matias Hurtado
+name: Domingo Veloso
 position: undergrad
 email: 
 ---
