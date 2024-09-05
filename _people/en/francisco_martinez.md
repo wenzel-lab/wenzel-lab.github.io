@@ -1,6 +1,6 @@
 ---
 name: Francisco Martinez
-position: others
+position: alumni
 email: francisco.martinezca@postgrado.uv.cl
 ---
 

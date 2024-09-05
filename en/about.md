@@ -31,7 +31,9 @@ Our lab welcomes those who love to learn and are thirsty for more. We align with
 - [Jenny Molloy - Open Bioeconomy Lab, Cambridge and Torento, UK and Italy](https://openbioeconomy.org/people/dr-jenny-molloy/)
 - [Bryan Spring, Biomedical Optics, Northeastern University, USA](https://cos.northeastern.edu/people/bryan-spring/)
 - [Manu Prakash and Honquang Li, Frugal Science, Stanford University, USA](https://web.stanford.edu/group/prakash-lab/cgi-bin/labsite/)
+- [Wladimir Araya, IOW labs, Chile](https://www.iowlabs.com)
 - Christie Nel, Scaturio Ltd, UK
+- Francisco Martinez, Independent, CL
 
 
 ### This website
