@@ -5,13 +5,12 @@ ref: 1-about
 ---
 
 ### Research
-
 <img class='img-responsive center-block' src="/images/others/sorting-chip.jpg" width="80%" height="80%" data-action="zoom"> We are a research team developing the next generation of high-throughput technologies in order to address complex biomedical questions. To capture as much biological complexity as possible during experiments, we use a technique called Droplet Microfluidics, where tiny water droplets serve as miniature labs. These droplets allow us to look closely at everything from single molecules to cells, body microbes, and tiny organs, especially how they work together. Using droplets and bioimaging, our team can study how millions of these elements interact at different levels, uncovering mysteries about our body's inner workings on different scales. The Lab also develops accessible open-source hardware for this research, so scientists worldwide can join, use and change these exciting methods, making top-notch science accessible to all. 
 
 <div class="parallax2"></div><br>
 
 ### Lab Members
-Our group is extremly interdisciplinary with biochemist, biotechnologists, physicists, engineers, designers, and more. We complement each other and collaborate with external specialists to learn from each other and build advanced research methods and tools together, in order to study high-impact biomedical questions in-vitro. Visit our [people page]({{ site.baseurl }}/en/people/) to see more information on each person in the team.
+Our group is very interdisciplinary with biochemists, vets, biotechnologists, physicists, engineers, designers, and more areas represented in the team. We complement each other and collaborate with external specialists to learn from each other and build advanced research methods and tools together, in order to study high-impact biomedical questions in-vitro. We are an international lab, prioritising open and direct communication, and efficient collaboration to further our academic and societal goals. Visit our [people page]({{ site.baseurl }}/en/people/) to see more information on each person in the team. 
 
 ### Lab Culture
 Our lab welcomes those who love to learn and are thirsty for more. We align with the Global Open Science Hadware movement and it's [code of conduct](https://openhardware.science/gosh-2017/gosh-code-of-conduct/).
@@ -34,7 +33,7 @@ Our lab welcomes those who love to learn and are thirsty for more. We align with
 - [Manu Prakash and Honquang Li, Frugal Science, Stanford University, USA](https://web.stanford.edu/group/prakash-lab/cgi-bin/labsite/)
 - [Wladimir Araya, IOW labs, Chile](https://www.iowlabs.com)
 - Christie Nel, Scaturio Ltd, UK
-- Francisco Martinez, Independent, CL
+- Francisco Martinez, NUCLEAR-MDE SPA, CL
 
 <div class="parallax1"></div><br>
 
