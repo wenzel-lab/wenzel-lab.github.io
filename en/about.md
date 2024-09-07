@@ -16,6 +16,8 @@ Our group is extremly interdisciplinary with biochemist, biotechnologists, physi
 ### Lab Culture
 Our lab welcomes those who love to learn and are thirsty for more. We align with the Global Open Science Hadware movement and it's [code of conduct](https://openhardware.science/gosh-2017/gosh-code-of-conduct/).
 
+<div class="parallax1"></div><br>
+
 ### Collaborators
 **note:** This list is in no way complete. If you've collaborated with us and want a link here, let us know!
 
