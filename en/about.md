@@ -16,5 +16,25 @@ Our group is extremly interdisciplinary with biochemist, biotechnologists, physi
 ### Lab Culture
 Our lab welcomes those who love to learn and are thirsty for more. We align with the Global Open Science Hadware movement and it's [code of conduct](https://openhardware.science/gosh-2017/gosh-code-of-conduct/).
 
+### Collaborators
+**note:** This list is in no way complete. If you've collaborated with us and want a link here, let us know!
+
+**Internal - Pontifical Catholic University of Chile:**
+- [Vicente Parot - Institue for Biological and Medical Engineering](https://parotlab.github.io/)
+- [Pablo Irarrázaval - Institue for Biological and Medical Engineering](https://ingenieriabiologicaymedica.uc.cl/es/personas/academicos/72-pablo-irarrazaval)
+- [Carolina Serrano Honeyman - Gastroenterología y Nutrición, Facultad de Medicina](https://medicina.uc.cl/persona/dra-carolina-serrano-h/)
+- [Birger Seifert - Facultad de Física](http://www.fis.puc.cl/~bseifert/)
+
+**External:**
+- [Rafael Araos - Médico cirujano, Universidad de Desarollo, Chile](https://medicina.udd.cl/persona/rafael-araos-md-mmsc/#!/page=1)
+- [Andreas Peschel - Microbiology and Infection Medicine, University of Tübingen, DE](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/interfakultaere-einrichtungen/imit/arbeitsgruppen/infektionsbiologie/ag-peschel/)
+- [Kendra Nyberg - Automation Group, Calico Labs, USA](https://www.calicolabs.com/story/kendra-nyberg-is-microfluidics-group-lead-in-the-automation-group/)
+- [Jenny Molloy - Open Bioeconomy Lab, Cambridge and Torento, UK and Italy](https://openbioeconomy.org/people/dr-jenny-molloy/)
+- [Bryan Spring, Biomedical Optics, Northeastern University, USA](https://cos.northeastern.edu/people/bryan-spring/)
+- [Manu Prakash and Honquang Li, Frugal Science, Stanford University, USA](https://web.stanford.edu/group/prakash-lab/cgi-bin/labsite/)
+- [Wladimir Araya, IOW labs, Chile](https://www.iowlabs.com)
+- Christie Nel, Scaturio Ltd, UK
+- Francisco Martinez, Independent, CL
+
 ### This website
 This website was forked from the [Parot Lab](https://parotlab.github.io/) leveraging many of its features and content. Gracias!
