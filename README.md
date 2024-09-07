@@ -37,7 +37,7 @@ We have 4 categories: `scientists`, `students`, `discussion`, `blog` you can cho
 
 - **Clone the repository**, kind of the same as directly add post on Github. You just have to clone the repository. Then add new post file, commit and push to the repo.
 
-The changes will take approximately half a minute to render. You can see the new posts or changes on [parotlab.github.io](http://parotlab.github.io/)!
+The changes will take approximately half a minute to render. You can see the new posts or changes on [wenzel-lab.github.io](https://wenzel-lab.github.io/)!
 
 ### Add yourself
 
