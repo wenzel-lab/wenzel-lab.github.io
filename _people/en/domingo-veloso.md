@@ -1,6 +1,6 @@
 ---
 name: Domingo Veloso
-position: undergrad
+position: alumni
 email: 
 ---
 
@@ -8,4 +8,4 @@ email:
 
 _Computer Science undergraduate student, Pontificia Universidad Catolica de Chile_<br>
 
-Participated in the research lab in an IPRE project and continues to be involved...
+Participated in the research lab in an IPRE project on a AI detection tool for microfluidic droplets.
