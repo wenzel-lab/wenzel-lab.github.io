@@ -1,11 +1,9 @@
 ---
 name: Eduardo Honeyman
 position: undergrad
-email: 
+ref: eduardo.honeyman@uc.cl
 ---
-
-<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 _Engineering undergraduate, Pontificia Universidad Catolica de Chile_<br>
 
-IPRE project student...
+IPRE project student working on our open source flow microscopy platform.

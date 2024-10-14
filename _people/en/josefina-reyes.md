@@ -1,11 +1,9 @@
 ---
 name: Josefina Reyes
 position: researchstaff
-email: 
+ref: josefina.reyes.a@ug.uchile.cl
 ---
 
-<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+- _Research Assistant, Pontificia Universidad Catolica de Chile_<br>
 
-_Research Assistant, Pontificia Universidad Catolica de Chile_<br>
-
-Research assistant
+Research assistant on our ongoing FONDECYT Regular project related to the microfluidic cultivation of orgnoids and its interactions with pathogens.

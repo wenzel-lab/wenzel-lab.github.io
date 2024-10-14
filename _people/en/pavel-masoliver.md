@@ -1,10 +1,8 @@
 ---
 name: Pavel Masoliver
 position: others
-email: 
+ref: pimasoliver@uc.cl
 ---
-
-<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 _PhD in Engineeting, Pontificia Universidad Catolica de Chile_<br>
 
