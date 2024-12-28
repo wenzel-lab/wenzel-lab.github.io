@@ -1,6 +1,6 @@
 ---
 name: Eduardo Honeyman
-position: undergrad
+position: alumni
 ref: eduardo.honeyman@uc.cl
 ---
 
