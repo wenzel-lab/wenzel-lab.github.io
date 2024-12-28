@@ -1,6 +1,6 @@
 ---
 name: Guillermo Perez Mateluna
-position: researchstaff
+position: alumni
 ref: gpmateluna.bt@gmail.com
 ---
 
