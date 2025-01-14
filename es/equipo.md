@@ -11,7 +11,7 @@ role_tags:
   gradstudent: 'Estudiantes de Posgrado'
   undergrad: 'Estudiantes de Pregrado'
   visiting: 'Visitantes'
-  others: 'Otros'
+  others: 'Miembros de Apoyo'
   alumni: 'Antiguos miembros'
 
 aheader:
