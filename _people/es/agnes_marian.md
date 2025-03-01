@@ -1,6 +1,6 @@
 ---
 name: Agnes Marian
-position: others
+position: alumni
 ref: librehub@uc.cl
 ---
 
