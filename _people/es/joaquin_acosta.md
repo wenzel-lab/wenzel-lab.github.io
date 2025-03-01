@@ -1,6 +1,6 @@
 ---
 name: Joaquin Acosta
-position: researchstaff
+position: alumni
 ref: joaquin.acosta@ug.uchile.cl
 ---
 
