@@ -5,7 +5,7 @@ ref: joaquin.acosta@ug.uchile.cl
 description: 'Technology Fellow'
 when: '2024'
 where: 'Computer science MSc'
-<!--  where: '<a href="https://www.levita.com/">Levita Magnetics</a>' -->
+#  where: '<a href="https://www.levita.com/">Levita Magnetics</a>'
 ---
 
 - _Software Fellow, Pontificia Universidad Catolica de Chile_<br>
