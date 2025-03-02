@@ -2,6 +2,9 @@
 name: Francisco Martinez
 position: alumni
 ref: francisco.martinezca@postgrado.uv.cl
+description: 'Technology Fellow'
+when: '2024-1'
+where: 'MSc Neurobiologia Valparaiso y subcontratista del laboratorio'
 ---
 
 - _contratista y anterior technology fellow<br>
