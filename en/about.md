@@ -23,6 +23,7 @@ Our lab welcomes those who love to learn and are thirsty for more. We align with
 - [Pablo Irarrázaval - Institue for Biological and Medical Engineering](https://ingenieriabiologicaymedica.uc.cl/es/personas/academicos/72-pablo-irarrazaval)
 - [Carolina Serrano Honeyman - Gastroenterología y Nutrición, Facultad de Medicina](https://medicina.uc.cl/persona/dra-carolina-serrano-h/)
 - [Birger Seifert - Faculty of Physics](http://www.fis.puc.cl/~bseifert/)
+- [Sebastián Aguayo - Institue for Biological and Medical Engineering](https://ingenieriabiologicaymedica.uc.cl/en/people/faculty/809-sebastian-aguayo)
 - Pavel Masoliver - Postdoc in the Faculty of Physics UC
 
 **External:**
