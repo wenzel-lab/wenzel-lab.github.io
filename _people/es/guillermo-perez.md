@@ -2,8 +2,10 @@
 name: Guillermo Perez Mateluna
 position: alumni
 ref: gpmateluna.bt@gmail.com
+description: 'Encargado del Laboratorio'
+when: '2024-2'
 ---
 
-- Jefe de laboratorio, Pontificia Universidad Católica de Chile_<br>
+- Encargado del laboratorio, Pontificia Universidad Católica de Chile_<br>
 
-Jefe del laboratorio Wenzel Lab.
+Encargado del laboratorio Wenzel Lab.
