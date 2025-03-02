@@ -11,7 +11,7 @@ role_tags:
   gradstudent: 'Graduate Students'
   undergrad: 'Undergraduate Students'
   visiting: 'Visiting Scholars'
-  others: 'Supporting Team Members'
+  others: 'Admin and Communications'
   alumni: 'Alumni'
 aheader:
   name: 'Who are they'
