@@ -23,6 +23,7 @@ Nuestro laboratorio da la bienvenida a aquellos que aman aprender y tienen sed d
 - [Pablo Irarrázaval - Institue for Biological and Medical Engineering](https://ingenieriabiologicaymedica.uc.cl/es/personas/academicos/72-pablo-irarrazaval)
 - [Carolina Serrano Honeyman - Gastroenterología y Nutrición, Facultad de Medicina](https://medicina.uc.cl/persona/dra-carolina-serrano-h/)
 - [Birger Seifert - Facultad de Física](http://www.fis.puc.cl/~bseifert/)
+- Pavel Masoliver - Postdoc en la Facultad de Física UC
 
 **Externos:**
 - [Rafael Araos - Médico cirujano, Universidad de Desarollo, Chile](https://medicina.udd.cl/persona/rafael-araos-md-mmsc/#!/page=1)
@@ -31,6 +32,9 @@ Nuestro laboratorio da la bienvenida a aquellos que aman aprender y tienen sed d
 - [Jenny Molloy - Open Bioeconomy Lab, Cambridge and Torento, UK and Italy](https://openbioeconomy.org/people/dr-jenny-molloy/)
 - [Bryan Spring, Biomedical Optics, Northeastern University, USA](https://cos.northeastern.edu/people/bryan-spring/)
 - [Manu Prakash and Honquang Li, Frugal Science, Stanford University, USA](https://web.stanford.edu/group/prakash-lab/cgi-bin/labsite/)
+- [Benedict Diederich - UC2](https://openuc2.com) [and Open Instrumentation Research Group, Leibniz-IPHT, Germany](https://www.leibniz-ipht.de/en/homepage/)
+- [Pietro Cicuta - Professor of Biological Physics, University of Cambridge, UK](https://www.phy.cam.ac.uk/directory/cicuta)
+- [The CIFAR MacMillan Multiscale Human Program](https://cifar.ca/research-programs/cifar-macmillan-multiscale-human/)
 - [Wladimir Araya, IOW labs, Chile](https://www.iowlabs.com)
 - Christie Nel, Scaturio Ltd, UK
 - Francisco Martinez, NUCLEAR-MDE SPA, CL
