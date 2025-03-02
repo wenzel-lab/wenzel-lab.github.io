@@ -27,15 +27,16 @@ Our lab welcomes those who love to learn and are thirsty for more. We align with
 - Pavel Masoliver - Postdoc in the Faculty of Physics UC
 
 **External:**
-- [Rafael Araos - Médico cirujano, Universidad de Desarollo, Chile](https://medicina.udd.cl/persona/rafael-araos-md-mmsc/#!/page=1)
-- [Andreas Peschel - Microbiology and Infection Medicine, University of Tübingen, DE](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/interfakultaere-einrichtungen/imit/arbeitsgruppen/infektionsbiologie/ag-peschel/)
+- [The CIFAR MacMillan Multiscale Human Program](https://cifar.ca/research-programs/cifar-macmillan-multiscale-human/)
 - [Kendra Nyberg - Automation Group, Calico Labs, USA](https://www.calicolabs.com/story/kendra-nyberg-is-microfluidics-group-lead-in-the-automation-group/)
 - [Jenny Molloy - Open Bioeconomy Lab, Cambridge and Torento, UK and Italy](https://openbioeconomy.org/people/dr-jenny-molloy/)
-- [Bryan Spring - Biomedical Optics, Northeastern University, USA](https://cos.northeastern.edu/people/bryan-spring/)
-- [Manu Prakash and Honquang Li - Frugal Science, Stanford University, USA](https://web.stanford.edu/group/prakash-lab/cgi-bin/labsite/)
+- [Bryan Spring, Biomedical Optics, Northeastern University, USA](https://cos.northeastern.edu/people/bryan-spring/)
+- [Manu Prakash and Honquang Li, Frugal Science, Stanford University, USA](https://web.stanford.edu/group/prakash-lab/cgi-bin/labsite/)
 - [Benedict Diederich - UC2](https://openuc2.com) [and Open Instrumentation Research Group, Leibniz-IPHT, Germany](https://www.leibniz-ipht.de/en/homepage/)
 - [Pietro Cicuta - Professor of Biological Physics, University of Cambridge, UK](https://www.phy.cam.ac.uk/directory/cicuta)
-- [The CIFAR MacMillan Multiscale Human Program](https://cifar.ca/research-programs/cifar-macmillan-multiscale-human/)
+- [Andreas Peschel - Microbiology and Infection Medicine, University of Tübingen, DE](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/interfakultaere-einrichtungen/imit/arbeitsgruppen/infektionsbiologie/ag-peschel/)
+- [José Manuel Munita - Médico cirujano, Universidad de Desarollo, Chile](https://medicina.udd.cl/icim/persona/jose-manuel-munita/#!/page=1)
+- [Rafael Araos - Médico cirujano, Universidad de Desarollo, Chile](https://medicina.udd.cl/persona/rafael-araos-md-mmsc/#!/page=1)
 - [Wladimir Araya, IOW labs, Chile](https://www.iowlabs.com)
 - Christie Nel, Scaturio Ltd, UK
 - Francisco Martinez, NUCLEAR-MDE SPA, CL
