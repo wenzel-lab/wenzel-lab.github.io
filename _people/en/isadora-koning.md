@@ -1,6 +1,6 @@
 ---
 name: Isadora Koning
-position: other
+position: others
 ref: librehub@uc.cl
 ---
 
