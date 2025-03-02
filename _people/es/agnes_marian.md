@@ -1,7 +1,10 @@
 ---
 name: Agnes Marian
 position: alumni
-ref: librehub@uc.cl
+ref:
+description: 'Gerente de Comunicaciones'
+when: '2023-Ene2025'
+where: '<a href="https://postgrado.agronomia.uc.cl/magister/recursos-naturales">Magister en Recursos Naturales UC</a>'
 ---
 
 - _Gerente de Comunicaciones, Pontificia Universidad Católica de Chile_<br>
