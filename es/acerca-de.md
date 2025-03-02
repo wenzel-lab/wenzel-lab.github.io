@@ -19,10 +19,11 @@ Nuestro laboratorio da la bienvenida a aquellos que aman aprender y tienen sed d
 **nota:** Esta lista no está en absoluto completa. Si has colaborado con nosotros y quieres un enlace aquí, ¡háznoslo saber!
 
 **Internos - Pontificia Universidad Católica de Chile:**
-- [Vicente Parot - Institue for Biological and Medical Engineering](https://parotlab.github.io/)
-- [Pablo Irarrázaval - Institue for Biological and Medical Engineering](https://ingenieriabiologicaymedica.uc.cl/es/personas/academicos/72-pablo-irarrazaval)
+- [Vicente Parot - Instituto de Ingeniería Biológica y Médica UC](https://parotlab.github.io/)
+- [Pablo Irarrázaval - Instituto de Ingeniería Biológica y Médica UC](https://ingenieriabiologicaymedica.uc.cl/es/personas/academicos/72-pablo-irarrazaval)
 - [Carolina Serrano Honeyman - Gastroenterología y Nutrición, Facultad de Medicina](https://medicina.uc.cl/persona/dra-carolina-serrano-h/)
 - [Birger Seifert - Facultad de Física](http://www.fis.puc.cl/~bseifert/)
+- [Sebastián Aguayo - Instituto de Ingeniería Biológica y Médica UC](https://ingenieriabiologicaymedica.uc.cl/es/personas/academicos/811-sebastian-aguayo)
 - Pavel Masoliver - Postdoc en la Facultad de Física UC
 
 **Externos:**
