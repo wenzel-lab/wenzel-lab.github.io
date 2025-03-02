@@ -2,6 +2,8 @@
 name: Domingo Veloso
 position: alumni
 ref: domingo.veloso@uc.cl
+description: 'IPre 2024-1'
+when: '2024'
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
