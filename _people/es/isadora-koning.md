@@ -1,5 +1,5 @@
 ---
-name: Isadora Koning
+name: Isadora Koning Guerrero
 position: others
 ref: librehub@uc.cl
 ---
