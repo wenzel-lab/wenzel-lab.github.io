@@ -4,6 +4,6 @@ position: researchstaff
 ref: marceolivera.zu@gmail.com
 ---
 
-- Encargada de laboratorio, Pontificia Universidad Católica de Chile_<br>
+- _Encargada de laboratorio, Pontificia Universidad Católica de Chile_<br>
 
 Encargada del laboratorio Wenzel Lab.
