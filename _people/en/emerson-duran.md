@@ -4,7 +4,7 @@ position: postdoc
 email: 
 ---
 
-_Postdoc and collaborator, Universidad Santo Tomás_<br>
+_Postdoc ANID and part-time prof. at Universidad Santo Tomás_<br>
 
 
-Postdoctroal researcher...
+Postdoctoral researcher collaborating with us in organoid metabolic research and complementary research related to our Regular FONDECYT project.
