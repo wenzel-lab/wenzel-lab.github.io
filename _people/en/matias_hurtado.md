@@ -1,7 +1,10 @@
 ---
 name: Matias Hurtado
-position: researchstaff
+position: alumni
 ref: matias.hurlab@gmail.com
+description: 'Design Technology Fellow'
+when: '2025-11'
+where: 'Co-founder of Casku 3D'
 ---
 
 - _Design Fellow, Pontificia Universidad Catolica de Chile_<br>
