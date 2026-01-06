@@ -3,7 +3,7 @@ name: Matias Hurtado
 position: alumni
 ref: matias.hurlab@gmail.com
 description: 'Design Technology Fellow'
-when: '2025-11'
+when: '2023 - 2025'
 where: 'Co-founder of <a href="https://www.casku.cl/nosotros">Casku 3D</a>'
 ---
 
