@@ -19,26 +19,30 @@ Our lab welcomes those who love to learn and are thirsty for more. We align with
 **note:** This list is in no way complete. If you've collaborated with us and want a link here, let us know!
 
 **Internal - Pontifical Catholic University of Chile:**
-- [Vicente Parot - Institue for Biological and Medical Engineering](https://parotlab.github.io/)
-- [Pablo Irarrázaval - Institue for Biological and Medical Engineering](https://ingenieriabiologicaymedica.uc.cl/es/personas/academicos/72-pablo-irarrazaval)
 - [Carolina Serrano Honeyman - Gastroenterología y Nutrición, Facultad de Medicina](https://medicina.uc.cl/persona/dra-carolina-serrano-h/)
 - [Birger Seifert - Faculty of Physics](http://www.fis.puc.cl/~bseifert/)
+- [Eduardo Undurraga - School of Government UC](https://gobierno.uc.cl/profesores/eduardo-undurraga/)
 - [Sebastián Aguayo - Institue for Biological and Medical Engineering](https://ingenieriabiologicaymedica.uc.cl/en/people/faculty/809-sebastian-aguayo)
-- Pavel Masoliver - Postdoc in the Faculty of Physics UC
+- [Vicente Parot - Institue for Biological and Medical Engineering](https://parotlab.github.io/)
 
 **External:**
 - [The CIFAR MacMillan Multiscale Human Program](https://cifar.ca/research-programs/cifar-macmillan-multiscale-human/)
+- [Manuel Amieva - Pediatrics and Microbiology and Immunology at Stanford University](https://amievalab.stanford.edu)
+- SENTINET national center: Surveillance, Epidemiology, and New Technologies for Infectious Emerging Threats, especially [Eduardo Undurraga - School of Government UC](https://gobierno.uc.cl/profesores/eduardo-undurraga/), [José Manuel Munita - Médico cirujano, Universidad de Desarollo, Chile](https://medicina.udd.cl/icim/persona/jose-manuel-munita/#!/page=1), [Rafael Araos - Médico cirujano, Universidad de Desarollo, Chile](https://medicina.udd.cl/persona/rafael-araos-md-mmsc/#!/page=1) 
 - [Kendra Nyberg - Automation Group, Calico Labs, USA](https://www.calicolabs.com/story/kendra-nyberg-is-microfluidics-group-lead-in-the-automation-group/)
-- [Jenny Molloy - Open Bioeconomy Lab, Cambridge and Torento, UK and Italy](https://openbioeconomy.org/people/dr-jenny-molloy/)
 - [Bryan Spring, Biomedical Optics, Northeastern University, USA](https://cos.northeastern.edu/people/bryan-spring/)
 - [Manu Prakash and Honquang Li, Frugal Science, Stanford University, USA](https://web.stanford.edu/group/prakash-lab/cgi-bin/labsite/)
 - [Benedict Diederich - UC2](https://openuc2.com) [and Open Instrumentation Research Group, Leibniz-IPHT, Germany](https://www.leibniz-ipht.de/en/homepage/)
-- [Pietro Cicuta - Professor of Biological Physics, University of Cambridge, UK](https://www.phy.cam.ac.uk/directory/cicuta)
-- [Andreas Peschel - Microbiology and Infection Medicine, University of Tübingen, DE](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/interfakultaere-einrichtungen/imit/arbeitsgruppen/infektionsbiologie/ag-peschel/)
-- [José Manuel Munita - Médico cirujano, Universidad de Desarollo, Chile](https://medicina.udd.cl/icim/persona/jose-manuel-munita/#!/page=1)
-- [Rafael Araos - Médico cirujano, Universidad de Desarollo, Chile](https://medicina.udd.cl/persona/rafael-araos-md-mmsc/#!/page=1)
 - [Wladimir Araya, IOW labs, Chile](https://www.iowlabs.com)
+- [Maria Luisa Cordero - Microfabrication UChile](https://activematter.dfi.uchile.cl)
 - Christie Nel, Scaturio Ltd, UK
+
+### Collaborators of completed projects or articles
+- [Pablo Irarrázaval - Institue for Biological and Medical Engineering](https://ingenieriabiologicaymedica.uc.cl/es/personas/academicos/72-pablo-irarrazaval)
+- Pavel Masoliver - Postdoc in the Faculty of Physics UC
+- [Andreas Peschel - Microbiology and Infection Medicine, University of Tübingen, DE](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/interfakultaere-einrichtungen/imit/arbeitsgruppen/infektionsbiologie/ag-peschel/)
+- [Pietro Cicuta - Professor of Biological Physics, University of Cambridge, UK](https://www.phy.cam.ac.uk/directory/cicuta)
+- [Jenny Molloy - Open Bioeconomy Lab, Cambridge and Torento, UK and Italy](https://openbioeconomy.org/people/dr-jenny-molloy/)
 - Francisco Martinez, NUCLEAR-MDE SPA, CL
 
 <div class="parallax1"></div><br>
