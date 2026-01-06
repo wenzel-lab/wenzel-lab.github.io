@@ -4,7 +4,7 @@ position: alumni
 ref: matias.hurlab@gmail.com
 description: 'Design Technology Fellow'
 when: '2025-11'
-where: 'Co-founder of Casku 3D'
+where: 'Co-founder of <a href="https://www.casku.cl/nosotros">Casku 3D</a>'
 ---
 
 - _Design Fellow, Pontificia Universidad Catolica de Chile_<br>
